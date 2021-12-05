@@ -35,16 +35,16 @@ I am interested in theoretical machine learning and its applications, especially
 
 ## Publications
 
-[On the Equivalence between Neural Network and Support Vector Machine.](https://arxiv.org/abs/2111.06063) [(slides)](http://chenyilan.net/files/SVM_Slides.pdf)<br>
+- [On the Equivalence between Neural Network and Support Vector Machine.](https://arxiv.org/abs/2111.06063) [(slides)](http://chenyilan.net/files/SVM_Slides.pdf)<br>
 <u>Yilan Chen</u>, Wei Huang, Lam M. Nguyen, Tsui-Wei Weng.<br>
 <i>Thirty-fifth Conference on Neural Information Processing Systems (NeurIPS 2021).</i><br>
 
-Quantifying the Knowledge in a DNN to Explain Knowledge Distillation.<br>
+- Quantifying the Knowledge in a DNN to Explain Knowledge Distillation.<br>
 Quanshi Zhang\*, Xu Cheng\*, <u>Yilan Chen</u>, Zhefan Rao.<br>
 <i>In submission to IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI).</i><br>
 
 
-[Explaining Knowledge Distillation by Quantifying the Knowledge.](https://arxiv.org/abs/2003.03622)<br>
+- [Explaining Knowledge Distillation by Quantifying the Knowledge.](https://arxiv.org/abs/2003.03622)<br>
 Xu Cheng, Zhefan Rao, <u>Yilan Chen</u>, Quanshi Zhang.<br>
 <i>IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2020).</i><br>
 
