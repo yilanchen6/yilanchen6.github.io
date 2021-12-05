@@ -15,7 +15,20 @@
 
 
 
-![Yilan](https://leslie-ch.github.io/images/chenyilan.jpg#pic_center){:height="30%" width="30%"}
+![Yilan](https://leslie-ch.github.io/images/chenyilan.jpg#center){:height="30%" width="30%"}
+
+<img src="https://leslie-ch.github.io/images/chenyilan.jpg" style="float: right;" width="50%" height="50%">
+
+
+<div style="clear: both;">
+  <div style="float: left; margin-right 1em;">
+    <img src="https://leslie-ch.github.io/images/chenyilan.jpg" alt="">
+  </div>
+  <div>
+    <h2>Some title text</h2>
+    <p>Some more text that will appear to the left of the image.</p>
+  </div>
+</div>
 
 
 
