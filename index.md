@@ -14,9 +14,9 @@
 
 
 
-<div  align="center"> 
-![Yilan](https://leslie-ch.github.io/images/chenyilan.jpg){:height="50%" width="50%"}
-</div>
+
+![Yilan](https://leslie-ch.github.io/images/chenyilan.jpg#pic_center){:height="30%" width="30%"}
+
 
 
 I am a seconed-year master student in [Computer Science and Engineering Department](https://cse.ucsd.edu/) at University of California San Diego working with Prof. [Tsui-Wei (Lily) Weng](https://lilyweng.github.io/) and Dr. [Lam M. Nguyen](https://lamnguyen-mltd.github.io/). 
