@@ -43,7 +43,7 @@ I received my Bachelor of Engineering Degree from [Xi'an Jiaotong University](ht
 Here is my [CV](https://chenyilan.net/files/CV_Yilan_Chen.pdf). 
 
 `I am looking for a Ph.D. position starting from 2022.`
-<img src="https://leslie-ch.github.io/images/chenyilan.jpg" align="right" width="200px"  style="margin-right:100px" >
+<img src="https://leslie-ch.github.io/images/chenyilan.jpg" align="right" width="200px"  style="margin-right:50px" >
 
 <br clear="right"/>
 
