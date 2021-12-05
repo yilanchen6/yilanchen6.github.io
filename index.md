@@ -23,7 +23,7 @@
 
 <div style="clear: both;">
 <div style="float: left; margin-right 1em;">
-<img src="https://leslie-ch.github.io/images/chenyilan.jpg" width="30%" height="30%" alt="">
+<img src="https://leslie-ch.github.io/images/chenyilan.jpg" height="30%" alt="">
 </div>
 <div>
 <h2>Some title text</h2>
