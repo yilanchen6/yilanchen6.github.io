@@ -21,7 +21,7 @@
 
 
 
-<div style="clear: both;">
+<!-- <div style="clear: both;">
 <div style="float: left; margin-right 1em;">
 <img src="https://leslie-ch.github.io/images/chenyilan.jpg" width="30%"  alt=""/>
 <img src="https://leslie-ch.github.io/images/chenyilan.jpg" width="30%"  alt=""/>
@@ -30,8 +30,15 @@
 <h2>Some title text</h2>
 <p>Some more text that will appear to the left of the image.</p>
 </div>
-</div>
+</div> -->
 
+
+<img src="https://leslie-ch.github.io/images/chenyilan.jpg" align="left" width="200px"/>
+some text floating around the image
+
+<br clear="left"/>
+
+A "newline". This text doesn't float anymore, is left-aligned.
 
 
 
