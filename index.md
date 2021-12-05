@@ -1,123 +1,79 @@
----
-layout: default
----
+## About Me
 
-Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
-
-[Link to another page](./another-page.html).
-
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
-# Header 1
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-## Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+I am a seconed-year master student in [Computer Science and Engineering Department](https://cse.ucsd.edu/) at University of California San Diego working with Prof. [Tsui-Wei (Lily) Weng](https://lilyweng.github.io/) and Dr. [Lam M. Nguyen](https://lamnguyen-mltd.github.io/). 
+<!-- Before that, I spent some time as a research intern at [University of Technology Sydney](https://www.uts.edu.au/), advised by Prof. [Richard Xu](https://www.uts.edu.au/staff/yida.xu) and [Shanghai Jiao Tong University](http://en.sjtu.edu.cn/), advised by Prof. [Quanshi Zhang](http://qszhang.com/).  -->
+I received my Bachelor of Engineering Degree from [Xi'an Jiaotong University](http://en.xjtu.edu.cn/). 
+Here is my [CV](http://chenyilan.net/files/CV_Yilan_Chen.pdf). **I am looking for a Ph.D. position starting from 2022.**
 
 
-### Definition lists can be used with HTML syntax.
+## Research Interests
 
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
 
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
+I am interested in theoretical machine learning and its applications, especially 
+- Deep learning theory (optimization, generalization, robustness)
+- Reinforcement learning theory
 
-```
-The final element.
-```
+
+
+
+## Publications
+
+[On the Equivalence between Neural Network and Support Vector Machine.](https://arxiv.org/abs/2111.06063) [(slides)](http://chenyilan.net/files/SVM_Slides.pdf)<br>
+<b>Yilan Chen</b>, Wei Huang, Lam M. Nguyen, Tsui-Wei Weng.<br>
+<i>Thirty-fifth Conference on Neural Information Processing Systems (NeurIPS 2021).</i><br>
+
+Quantifying the Knowledge in a DNN to Explain Knowledge Distillation.<br>
+Quanshi Zhang$^\ast$, Xu Cheng$^\ast$, <b>Yilan Chen</b>, Zhefan Rao.<br>
+<i>In submission to IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI).</i><br>
+
+
+<!-- <b>[Explaining Knowledge Distillation by Quantifying the Knowledge](https://arxiv.org/abs/2003.03622)</b>  -->
+[Explaining Knowledge Distillation by Quantifying the Knowledge.](https://arxiv.org/abs/2003.03622.pdf)<br>
+Xu Cheng, Zhefan Rao, <b>Yilan Chen</b>, Quanshi Zhang.<br>
+<i>IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2020).</i><br>
+
+
+
+## Notes
+- [A Note about NTK Derivation](http://chenyilan.net/files/ntk_derivation.pdf)
+- [Some Derivations and Proofs about Linearized Networks](http://chenyilan.net/files/linearized_network.pdf)
+
+
+<!-- **<font size='5'>Projects</font>**
+* [Prototype Selection for Nearest Neighbor](http://chenyilan.net/files/Prototype_Selection.pdf)
+* [Coordinate Descent](http://chenyilan.net/files/coord_desc.pdf) -->
+
+
+
+## Teaching
+- DSC 291 Trustworthy Machine Learning, Tutor, Fall 2021
+
+
+
+
+
+
+## Courses
+- Machine Learning:
+  - CSE 250A Probabilistic Reason & Learning  A+
+  - CSE 251A ML: Learning Algorithms  A+
+  - CSE 251C ML: Machine Learning Theory  A
+  - CSE	252A Computer Vision I  A+
+  - CSE	257  Search and Optimization A
+
+- Math:
+  - MATH 245A	Convex Analysis & Optimization I  A
+  - MATH 245B	Convex Analysis & Optimization II  A
+  - ECE	269   Linear Algebra and Application A
+  - MATH 281A Mathematical Statistics ongoing
+
+
+
+
+
+
+## Professional Service
+
+- ICLR 2022, Reviewer
+
+
