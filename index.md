@@ -64,13 +64,13 @@ I am interested in theoretical machine learning and its applications, especially
 <i>Thirty-fifth Conference on Neural Information Processing Systems (NeurIPS 2021).</i><br>
 
 Quantifying the Knowledge in a DNN to Explain Knowledge Distillation.<br>
-Quanshi Zhang$^\ast$, Xu Cheng$^\ast$, <b>Yilan Chen</b>, Zhefan Rao.<br>
+Quanshi Zhang\*, Xu Cheng\*, <u>Yilan Chen</u>, Zhefan Rao.<br>
 <i>In submission to IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI).</i><br>
 
 
 <!-- <b>[Explaining Knowledge Distillation by Quantifying the Knowledge](https://arxiv.org/abs/2003.03622)</b>  -->
-[Explaining Knowledge Distillation by Quantifying the Knowledge.](https://arxiv.org/abs/2003.03622.pdf)<br>
-Xu Cheng, Zhefan Rao, <b>Yilan Chen</b>, Quanshi Zhang.<br>
+[Explaining Knowledge Distillation by Quantifying the Knowledge.](https://arxiv.org/abs/2003.03622)<br>
+Xu Cheng, Zhefan Rao, <u>Yilan Chen</u>, Quanshi Zhang.<br>
 <i>IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2020).</i><br>
 
 
