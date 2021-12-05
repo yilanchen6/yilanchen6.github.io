@@ -1,29 +1,5 @@
 ## About Me
 
-
-<!-- <table border="0">
- <tr>
-    <td><b style="font-size:30px">Title</b></td>
-    <td><b style="font-size:30px">Title 2</b></td>
- </tr>
- <tr>
-    <td>I am a seconed-year master student in [Computer Science and Engineering Department](https://cse.ucsd.edu/) at University of California San Diego working with Prof. [Tsui-Wei (Lily) Weng](https://lilyweng.github.io/) and Dr. [Lam M. Nguyen](https://lamnguyen-mltd.github.io/). I received my Bachelor of Engineering Degree from [Xi'an Jiaotong University](http://en.xjtu.edu.cn/). Here is my [CV](https://chenyilan.net/files/CV_Yilan_Chen.pdf). _I am looking for a Ph.D. position starting from 2022._</td>
-    <td>![Yilan](https://leslie-ch.github.io/images/chenyilan.jpg)</td>
- </tr>
-</table> -->
-
-
-
-
-<!-- ![Yilan](https://leslie-ch.github.io/images/chenyilan.jpg#center){:height="30%" width="30%"} -->
-<!-- 
-<img src="https://leslie-ch.github.io/images/chenyilan.jpg" style="float: right;" width="30%" height="30%"> -->
-
-
-
-
-
-
 <img src="https://leslie-ch.github.io/images/chenyilan.jpg" align="left" width="200px" style="margin-right:10px"/>
 I am a seconed-year master student in [Computer Science and Engineering Department](https://cse.ucsd.edu/) at University of California San Diego working with Prof. [Tsui-Wei (Lily) Weng](https://lilyweng.github.io/) and Dr. [Lam M. Nguyen](https://lamnguyen-mltd.github.io/). 
 <!-- Before that, I spent some time as a research intern at [University of Technology Sydney](https://www.uts.edu.au/), advised by Prof. [Richard Xu](https://www.uts.edu.au/staff/yida.xu) and [Shanghai Jiao Tong University](http://en.sjtu.edu.cn/), advised by Prof. [Quanshi Zhang](http://qszhang.com/).  -->
@@ -68,7 +44,6 @@ Quanshi Zhang\*, Xu Cheng\*, <u>Yilan Chen</u>, Zhefan Rao.<br>
 <i>In submission to IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI).</i><br>
 
 
-<!-- <b>[Explaining Knowledge Distillation by Quantifying the Knowledge](https://arxiv.org/abs/2003.03622)</b>  -->
 [Explaining Knowledge Distillation by Quantifying the Knowledge.](https://arxiv.org/abs/2003.03622)<br>
 Xu Cheng, Zhefan Rao, <u>Yilan Chen</u>, Quanshi Zhang.<br>
 <i>IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2020).</i><br>
