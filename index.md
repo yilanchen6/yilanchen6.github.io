@@ -2,18 +2,12 @@
 
 
 <table border="0">
- <!-- <tr>
+ <tr>
     <td><b style="font-size:30px">Title</b></td>
     <td><b style="font-size:30px">Title 2</b></td>
- </tr> -->
+ </tr>
  <tr>
-    <td>I am a seconed-year master student in [Computer Science and Engineering Department](https://cse.ucsd.edu/) at University of California San Diego working with Prof. [Tsui-Wei (Lily) Weng](https://lilyweng.github.io/) and Dr. [Lam M. Nguyen](https://lamnguyen-mltd.github.io/). 
-    <!-- Before that, I spent some time as a research intern at [University of Technology Sydney](https://www.uts.edu.au/), advised by Prof. [Richard Xu](https://www.uts.edu.au/staff/yida.xu) and [Shanghai Jiao Tong University](http://en.sjtu.edu.cn/), advised by Prof. [Quanshi Zhang](http://qszhang.com/).  -->
-    I received my Bachelor of Engineering Degree from [Xi'an Jiaotong University](http://en.xjtu.edu.cn/). 
-    Here is my [CV](https://chenyilan.net/files/CV_Yilan_Chen.pdf). 
-
-    _I am looking for a Ph.D. position starting from 2022._</td>
-    
+    <td>I am a seconed-year master student in [Computer Science and Engineering Department](https://cse.ucsd.edu/) at University of California San Diego working with Prof. [Tsui-Wei (Lily) Weng](https://lilyweng.github.io/) and Dr. [Lam M. Nguyen](https://lamnguyen-mltd.github.io/). I received my Bachelor of Engineering Degree from [Xi'an Jiaotong University](http://en.xjtu.edu.cn/). Here is my [CV](https://chenyilan.net/files/CV_Yilan_Chen.pdf). _I am looking for a Ph.D. position starting from 2022._</td>
     <td>![Yilan](https://leslie-ch.github.io/images/chenyilan.jpg)</td>
  </tr>
 </table>
