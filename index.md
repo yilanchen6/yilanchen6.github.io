@@ -60,7 +60,7 @@ I am interested in theoretical machine learning and its applications, especially
 ## Publications
 
 [On the Equivalence between Neural Network and Support Vector Machine.](https://arxiv.org/abs/2111.06063) [(slides)](http://chenyilan.net/files/SVM_Slides.pdf)<br>
-<b>Yilan Chen</b>, Wei Huang, Lam M. Nguyen, Tsui-Wei Weng.<br>
+<u>Yilan Chen</u>, Wei Huang, Lam M. Nguyen, Tsui-Wei Weng.<br>
 <i>Thirty-fifth Conference on Neural Information Processing Systems (NeurIPS 2021).</i><br>
 
 Quantifying the Knowledge in a DNN to Explain Knowledge Distillation.<br>
