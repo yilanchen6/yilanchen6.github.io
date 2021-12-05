@@ -22,10 +22,10 @@
 
 <div style="clear: both;">
   <div style="float: left; margin-right 1em;">
-    <img src="https://leslie-ch.github.io/images/chenyilan.jpg" style="float: left;" width="30%" height="30%" alt="">
+    <img src="https://leslie-ch.github.io/images/chenyilan.jpg" width="30%" height="30%" alt="">
   </div>
   <div>
-    <h2>Some title text</h2>
+    <!-- <h2>Some title text</h2> -->
     <p>Some more text that will appear to the left of the image.</p>
   </div>
 </div>
