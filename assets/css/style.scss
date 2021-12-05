@@ -2,3 +2,9 @@
 ---
 
 @import 'jekyll-theme-hacker';
+
+
+/* Remove underline from links */
+a {
+    border: none !important;
+   }
