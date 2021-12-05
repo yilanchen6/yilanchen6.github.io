@@ -21,31 +21,16 @@
 
 
 
-<div style="clear: both;">
-<div style="align: left; margin-right 1em;">
-<img src="https://leslie-ch.github.io/images/chenyilan.jpg" align="left" width="200px" alt=""/>
-</div>
-<div>
-<h2>Some title text</h2>
-<p>I am a seconed-year master student in [Computer Science and Engineering Department](https://cse.ucsd.edu/) at University of California San Diego working with Prof. [Tsui-Wei (Lily) Weng](https://lilyweng.github.io/) and Dr. [Lam M. Nguyen](https://lamnguyen-mltd.github.io/). 
-<!-- Before that, I spent some time as a research intern at [University of Technology Sydney](https://www.uts.edu.au/), advised by Prof. [Richard Xu](https://www.uts.edu.au/staff/yida.xu) and [Shanghai Jiao Tong University](http://en.sjtu.edu.cn/), advised by Prof. [Quanshi Zhang](http://qszhang.com/).  -->
-I received my Bachelor of Engineering Degree from [Xi'an Jiaotong University](http://en.xjtu.edu.cn/). 
-Here is my [CV](https://chenyilan.net/files/CV_Yilan_Chen.pdf).
-
-`I am looking for a Ph.D. position starting from 2022.`
-</p>
-</div>
-</div>
 
 
 
 <img src="https://leslie-ch.github.io/images/chenyilan.jpg" align="left" width="200px"/>  
-&nbsp I am a seconed-year master student in [Computer Science and Engineering Department](https://cse.ucsd.edu/) at University of California San Diego working with Prof. [Tsui-Wei (Lily) Weng](https://lilyweng.github.io/) and Dr. [Lam M. Nguyen](https://lamnguyen-mltd.github.io/). 
+&nbsp; I am a seconed-year master student in [Computer Science and Engineering Department](https://cse.ucsd.edu/) at University of California San Diego working with Prof. [Tsui-Wei (Lily) Weng](https://lilyweng.github.io/) and Dr. [Lam M. Nguyen](https://lamnguyen-mltd.github.io/). 
 <!-- Before that, I spent some time as a research intern at [University of Technology Sydney](https://www.uts.edu.au/), advised by Prof. [Richard Xu](https://www.uts.edu.au/staff/yida.xu) and [Shanghai Jiao Tong University](http://en.sjtu.edu.cn/), advised by Prof. [Quanshi Zhang](http://qszhang.com/).  -->
 I received my Bachelor of Engineering Degree from [Xi'an Jiaotong University](http://en.xjtu.edu.cn/). 
 Here is my [CV](https://chenyilan.net/files/CV_Yilan_Chen.pdf). 
 
-&nbsp `I am looking for a Ph.D. position starting from 2022.`
+&nbsp; `I am looking for a Ph.D. position starting from 2022.`
 
 
 
