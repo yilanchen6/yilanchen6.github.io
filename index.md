@@ -86,6 +86,7 @@ Xu Cheng, Zhefan Rao, <u>Yilan Chen</u>, Quanshi Zhang.<br>
 
 
 
+
 ## Teaching
 - DSC 291 Trustworthy Machine Learning, Tutor, Fall 2021
 
@@ -118,3 +119,9 @@ Xu Cheng, Zhefan Rao, <u>Yilan Chen</u>, Quanshi Zhang.<br>
 - ICLR 2022, Reviewer
 
 
+
+
+## Contact
+
+University of California San Diego, La Jolla, CA<br>
+Email: chenyilan199766 [at] gmail.com
