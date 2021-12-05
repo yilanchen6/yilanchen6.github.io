@@ -17,12 +17,12 @@
 
 ![Yilan](https://leslie-ch.github.io/images/chenyilan.jpg#center){:height="30%" width="30%"}
 
-<img src="https://leslie-ch.github.io/images/chenyilan.jpg" style="float: right;" width="50%" height="50%">
+<img src="https://leslie-ch.github.io/images/chenyilan.jpg" style="float: right;" width="30%" height="30%">
 
 
 <div style="clear: both;">
   <div style="float: left; margin-right 1em;">
-    <img src="https://leslie-ch.github.io/images/chenyilan.jpg" alt="">
+    <img src="https://leslie-ch.github.io/images/chenyilan.jpg" style="float: left;" width="30%" height="30%" alt="">
   </div>
   <div>
     <h2>Some title text</h2>
