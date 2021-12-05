@@ -15,9 +15,9 @@
 
 
 
-![Yilan](https://leslie-ch.github.io/images/chenyilan.jpg#center){:height="30%" width="30%"}
-
-<img src="https://leslie-ch.github.io/images/chenyilan.jpg" style="float: right;" width="30%" height="30%">
+<!-- ![Yilan](https://leslie-ch.github.io/images/chenyilan.jpg#center){:height="30%" width="30%"} -->
+<!-- 
+<img src="https://leslie-ch.github.io/images/chenyilan.jpg" style="float: right;" width="30%" height="30%"> -->
 
 
 <div style="clear: both;">
