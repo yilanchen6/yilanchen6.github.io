@@ -23,7 +23,7 @@
 
 <div style="clear: both;">
 <div style="align: left; margin-right 1em;">
-<img src="https://leslie-ch.github.io/images/chenyilan.jpg" width="200px" alt=""/>
+<img src="https://leslie-ch.github.io/images/chenyilan.jpg" align="left" width="200px" alt=""/>
 </div>
 <div>
 <h2>Some title text</h2>
