@@ -2,8 +2,8 @@
 
 
 <figure>
-  <img src="/images/chenyilan.jpg" align="left" width="200px" style="margin-right:20px" alt="Yilan's picture"/>
-  <figcaption>2019 at Beijing</figcaption>
+<img src="/images/chenyilan.jpg" align="left" width="200px" style="margin-right:20px" alt="Yilan's picture"/>
+<figcaption>2019 at Beijing.</figcaption>
 </figure>
 <!-- <img src="/images/chenyilan.jpg" align="left" width="200px" style="margin-right:20px" alt="Yilan's picture"/> -->
 I am a seconed-year master student in [Computer Science and Engineering Department](https://cse.ucsd.edu/) at University of California San Diego working with Prof. [Tsui-Wei (Lily) Weng](https://lilyweng.github.io/) and Dr. [Lam M. Nguyen](https://lamnguyen-mltd.github.io/). 
