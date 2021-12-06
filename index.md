@@ -1,5 +1,9 @@
-## About Me
+---
+layout: default
+---
 
+
+## About Me
 
 <!-- <figure>
 <img src="/images/chenyilan.jpg" align="left" width="200px" style="margin-right:20px" alt="Yilan's picture" title="2019 at Beijing."/>
