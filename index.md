@@ -37,7 +37,8 @@ Here is my [CV](https://chenyilan.net/files/CV_Yilan_Chen.pdf).
 ## Research Interests
 
 
-I am interested in theoretical machine learning and its applications, especially 
+<!-- I am interested in theoretical machine learning and its applications, especially  -->
+My current research interests are theoretical machine learning and its applications, with a focus on
 - Deep learning theory (optimization, generalization, robustness)
 - Reinforcement learning theory
 
