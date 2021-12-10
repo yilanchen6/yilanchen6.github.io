@@ -14,7 +14,7 @@ layout: default
 I am a seconed-year master student in [Computer Science and Engineering Department](https://cse.ucsd.edu/) at University of California San Diego. I'm very fortunate to be advised by Prof. [Tsui-Wei (Lily) Weng](https://lilyweng.github.io/) and Dr. [Lam M. Nguyen](https://lamnguyen-mltd.github.io/). 
 <!-- Before that, I spent some time as a research intern at [University of Technology Sydney](https://www.uts.edu.au/), advised by Prof. [Richard Xu](https://www.uts.edu.au/staff/yida.xu) and [Shanghai Jiao Tong University](http://en.sjtu.edu.cn/), advised by Prof. [Quanshi Zhang](http://qszhang.com/).  -->
 I received my Bachelor of Engineering Degree from [Xi'an Jiaotong University](http://en.xjtu.edu.cn/). 
-Here is my [CV](https://chenyilan.net/files/CV_Yilan_Chen.pdf). 
+Here is my [CV](/files/CV_Yilan_Chen.pdf). 
 
 `I am looking for a Ph.D. position starting from 2022.`
 
@@ -24,7 +24,7 @@ Here is my [CV](https://chenyilan.net/files/CV_Yilan_Chen.pdf).
 
 
 
-<!-- I am a seconed-year master student in [Computer Science and Engineering Department](https://cse.ucsd.edu/) at University of California San Diego working with Prof. [Tsui-Wei (Lily) Weng](https://lilyweng.github.io/) and Dr. [Lam M. Nguyen](https://lamnguyen-mltd.github.io/). I received my Bachelor of Engineering Degree from [Xi'an Jiaotong University](http://en.xjtu.edu.cn/). Here is my [CV](https://chenyilan.net/files/CV_Yilan_Chen.pdf).
+<!-- I am a seconed-year master student in [Computer Science and Engineering Department](https://cse.ucsd.edu/) at University of California San Diego working with Prof. [Tsui-Wei (Lily) Weng](https://lilyweng.github.io/) and Dr. [Lam M. Nguyen](https://lamnguyen-mltd.github.io/). I received my Bachelor of Engineering Degree from [Xi'an Jiaotong University](http://en.xjtu.edu.cn/). Here is my [CV](/files/CV_Yilan_Chen.pdf).
 <img src="https://leslie-ch.github.io/images/chenyilan.jpg" align="right" width="200px"  style="margin-right:50px" >
 
 <br clear="right"/>
@@ -47,7 +47,7 @@ My current research interests are theoretical machine learning and its applicati
 
 ## Publications
 
-- [On the Equivalence between Neural Network and Support Vector Machine.](https://arxiv.org/abs/2111.06063) [[code]](https://github.com/leslie-CH/equiv-nn-svm)[[slides]](http://chenyilan.net/files/SVM_Slides.pdf)[[poster]](/files/SVM_NeurIPS_2021_poster.pdf)[[video]](https://neurips.cc/virtual/2021/poster/27419)<br>
+- [On the Equivalence between Neural Network and Support Vector Machine.](https://arxiv.org/abs/2111.06063) [[code]](https://github.com/leslie-CH/equiv-nn-svm)[[slides]](/files/SVM_Slides.pdf)[[poster]](/files/SVM_NeurIPS_2021_poster.pdf)[[video]](https://neurips.cc/virtual/2021/poster/27419)<br>
 <u>Yilan Chen</u>, Wei Huang, Lam M. Nguyen, Tsui-Wei Weng.<br>
 Thirty-fifth Conference on Neural Information Processing Systems (NeurIPS 2021).
 
@@ -72,13 +72,13 @@ In submission to IEEE Transactions on Pattern Analysis and Machine Intelligence 
 
 
 ## Notes
-- [A Note about NTK Derivation](http://chenyilan.net/files/ntk_derivation.pdf)
-- [Some Derivations and Proofs about Linearized Networks](http://chenyilan.net/files/linearized_network.pdf)
+- [A Note about NTK Derivation](/files/ntk_derivation.pdf)
+- [Some Derivations and Proofs about Linearized Networks](/files/linearized_network.pdf)
 
 
 <!-- **<font size='5'>Projects</font>**
-* [Prototype Selection for Nearest Neighbor](http://chenyilan.net/files/Prototype_Selection.pdf)
-* [Coordinate Descent](http://chenyilan.net/files/coord_desc.pdf) -->
+* [Prototype Selection for Nearest Neighbor](/files/Prototype_Selection.pdf)
+* [Coordinate Descent](/files/coord_desc.pdf) -->
 
 
 
