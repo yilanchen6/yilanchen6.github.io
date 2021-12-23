@@ -32,6 +32,14 @@ body {
   margin: 0 auto;
 }
 
+
+.small_container {
+  width: 50%;
+  max-width: $container-max-width;
+  margin: 0 auto;
+}
+
+
 section {
   display: block;
   margin: 0 0 20px 0;
