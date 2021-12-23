@@ -126,4 +126,3 @@ In submission to IEEE Transactions on Pattern Analysis and Machine Intelligence 
 
 University of California San Diego, La Jolla, CA<br>
 Email: chenyilan199766 [at] gmail.com
-
