@@ -96,7 +96,7 @@ In submission to IEEE Transactions on Pattern Analysis and Machine Intelligence 
 
 
 
-## Courses
+<!-- ## Courses
 - Machine Learning:
   - CSE 250A Probabilistic Reason & Learning  A+
   - CSE 251A ML: Learning Algorithms  A+
@@ -108,7 +108,7 @@ In submission to IEEE Transactions on Pattern Analysis and Machine Intelligence 
   - MATH 245A	Convex Analysis & Optimization I  A
   - MATH 245B	Convex Analysis & Optimization II  A
   - ECE	269   Linear Algebra and Application A
-  - MATH 281A Mathematical Statistics ongoing
+  - MATH 281A Mathematical Statistics ongoing -->
 
 
 
