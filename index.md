@@ -117,6 +117,7 @@ In submission to IEEE Transactions on Pattern Analysis and Machine Intelligence 
 
 ## Professional Service
 
+- ICML 2022, Reviewer
 - ICLR 2022, Reviewer
 
 
