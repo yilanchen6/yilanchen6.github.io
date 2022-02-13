@@ -67,7 +67,7 @@ IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2020).
 ## Preprint & Under Review
 - [Demystify Optimization and Generalization of Over-parameterized PAC-Bayesian Learning.](https://arxiv.org/pdf/2202.01958.pdf)<br>
 Wei Huang\*, Chunrui Liu\*, <u>Yilan Chen</u>, Tianyu Liu, Richard Yi Da Xu.<br>
-arXiv, 2022.
+arXiv:2202.01958, 2022.
 
 - Quantifying the Knowledge in a DNN to Explain Knowledge Distillation.<br>
 Quanshi Zhang\*, Xu Cheng\*, <u>Yilan Chen</u>, Zhefan Rao.<br>
