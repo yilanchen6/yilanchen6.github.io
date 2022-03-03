@@ -21,7 +21,7 @@ I am a seconed-year master student in [Computer Science and Engineering Departme
 I received my Bachelor of Engineering Degree from [Xi'an Jiaotong University](http://en.xjtu.edu.cn/). 
 Here is my [CV](/files/CV_Yilan_Chen.pdf). 
 
-`I am looking for a Ph.D. position starting from 2022.`
+<!-- `I am looking for a Ph.D. position starting from 2022.` -->
 
 <br clear="left"/>
 
