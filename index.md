@@ -16,9 +16,9 @@ https://david-abel.github.io/index.html -->
 </figure> -->
 
 <img src="/images/chenyilan.jpeg" align="left" width="200px" style="margin-right:20px" alt="Yilan's picture" title="2019 at Beijing."/>
-I am a seconed-year master student and also an incoming Ph.D. student in [Computer Science and Engineering Department](https://cse.ucsd.edu/) at University of California San Diego. I'm fortunate to be advised by Prof. [Tsui-Wei (Lily) Weng](https://lilyweng.github.io/) and Dr. [Lam M. Nguyen](https://lamnguyen-mltd.github.io/). 
+I am a first-year Ph.D. student in [Computer Science and Engineering Department](https://cse.ucsd.edu/) at University of California San Diego (UCSD). I'm fortunate to be advised by Prof. [Tsui-Wei (Lily) Weng](https://lilyweng.github.io/). 
 <!-- Before that, I spent some time as a research intern at [University of Technology Sydney](https://www.uts.edu.au/), advised by Prof. [Richard Xu](https://www.uts.edu.au/staff/yida.xu) and [Shanghai Jiao Tong University](http://en.sjtu.edu.cn/), advised by Prof. [Quanshi Zhang](http://qszhang.com/).  -->
-I received my Bachelor of Engineering Degree from [Xi'an Jiaotong University](http://en.xjtu.edu.cn/). 
+I received my master of science degree from UCSD and bachelor of engineering degree from [Xi'an Jiaotong University](http://en.xjtu.edu.cn/). 
 <!-- Here is my [CV](/files/CV_Yilan_Chen.pdf).  -->
 
 <!-- `I am looking for a Ph.D. position starting from 2022.` -->
