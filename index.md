@@ -79,9 +79,9 @@ arXiv:2202.01958, 2022.
 
 
 
-<!-- ## Notes
+## Notes
 - [A Note about NTK Derivation](/files/ntk_derivation.pdf)
-- [Some Derivations and Proofs about Linearized Networks](/files/linearized_network.pdf) -->
+- [Some Derivations and Proofs about Linearized Networks](/files/linearized_network.pdf)
 
 
 <!-- **<font size='5'>Projects</font>**
