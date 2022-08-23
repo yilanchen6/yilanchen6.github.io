@@ -56,7 +56,7 @@ My current research interests are theoretical machine learning and its applicati
 <u>Yilan Chen</u>, Wei Huang, Lam M. Nguyen, Tsui-Wei Weng.<br>
 Thirty-fifth Conference on Neural Information Processing Systems (NeurIPS 2021).
 
-- Quantifying the Knowledge in a DNN to Explain Knowledge Distillation for Classification.<br>
+- [Quantifying the Knowledge in a DNN to Explain Knowledge Distillation for Classification.](https://arxiv.org/abs/2208.08741)<br>
 Quanshi Zhang\*, Xu Cheng\*, <u>Yilan Chen</u>, Zhefan Rao.<br>
 IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI).
 
