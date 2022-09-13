@@ -129,4 +129,4 @@ arXiv:2202.01958, 2022.
 ## Contact
 
 University of California San Diego, La Jolla, CA<br>
-Email: yilanchen6 [at] gmail.com
+Email: yilan [at] ucsd.edu
