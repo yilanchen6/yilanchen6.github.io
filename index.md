@@ -53,22 +53,23 @@ My current research interests are theoretical machine learning and its applicati
 ## Publications
 
 - [On the Equivalence between Neural Network and Support Vector Machine.](https://arxiv.org/abs/2111.06063) [[code]](https://github.com/leslie-CH/equiv-nn-svm)[[slides]](/files/SVM_Slides.pdf)[[poster]](/files/SVM_NeurIPS_2021_poster.pdf)[[video]](https://neurips.cc/virtual/2021/poster/27419)<br>
-<u>Yilan Chen</u>, Wei Huang, Lam M. Nguyen, Tsui-Wei Weng.<br>
+<!-- <u>Yilan Chen</u>, Wei Huang, Lam M. Nguyen, Tsui-Wei Weng.<br> -->
+Yilan Chen, Wei Huang, Lam M. Nguyen, Tsui-Wei Weng.<br>
 Thirty-fifth Conference on Neural Information Processing Systems (NeurIPS 2021).
 
 - [Quantifying the Knowledge in a DNN to Explain Knowledge Distillation for Classification.](https://arxiv.org/abs/2208.08741)<br>
-Quanshi Zhang\*, Xu Cheng\*, <u>Yilan Chen</u>, Zhefan Rao.<br>
+Quanshi Zhang\*, Xu Cheng\*, Yilan Chen, Zhefan Rao.<br>
 IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI).
 
 - [Explaining Knowledge Distillation by Quantifying the Knowledge.](https://arxiv.org/abs/2003.03622)<br>
-Xu Cheng, Zhefan Rao, <u>Yilan Chen</u>, Quanshi Zhang.<br>
+Xu Cheng, Zhefan Rao, Yilan Chen, Quanshi Zhang.<br>
 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2020).
 
 
 
 ## Preprint
 - [Demystify Optimization and Generalization of Over-parameterized PAC-Bayesian Learning.](https://arxiv.org/pdf/2202.01958.pdf)<br>
-Wei Huang\*, Chunrui Liu\*, <u>Yilan Chen</u>, Tianyu Liu, Richard Yi Da Xu.<br>
+Wei Huang\*, Chunrui Liu\*, Yilan Chen, Tianyu Liu, Richard Yi Da Xu.<br>
 arXiv:2202.01958, 2022.
 
 
@@ -119,9 +120,8 @@ arXiv:2202.01958, 2022.
 
 
 ## Professional Service
-- NeurIPS 2022, Reviewer
-- ICML 2022, Reviewer
-- ICLR 2022, Reviewer
+- Reviewer: NeurIPS 2022, ICML 2022, ICLR 2022
+- Program Committee: AAAI 2023 Workshop MLmDS
 
 
 
