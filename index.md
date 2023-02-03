@@ -120,7 +120,7 @@ arXiv:2202.01958, 2022.
 
 
 ## Professional Service
-- Reviewer: ICML 2022, 2023; NeurIPS 2022; ICLR 2022
+- Reviewer: ICML (2022, 2023), NeurIPS (2022), ICLR (2022)
 - Program Committee: AAAI 2023 Workshop MLmDS
 
 
