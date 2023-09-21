@@ -50,7 +50,7 @@ My current research interests are theoretical machine learning and its applicati
 
 
 ## Publications
-- [Analyzing Generalization of Neural Networks through Loss Path Kernels.]<br>
+- Analyzing Generalization of Neural Networks through Loss Path Kernels.<br>
 Yilan Chen, Wei Huang, Hao Wang, Charlotte Loh, Akash Srivastava, Lam M. Nguyen, Tsui-Wei Weng.<br>
 Thirty-seventh Conference on Neural Information Processing Systems (NeurIPS 2023).
 
