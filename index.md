@@ -50,6 +50,10 @@ My current research interests are theoretical machine learning and its applicati
 
 
 ## Publications
+- [Analyzing Generalization of Neural Networks through Loss Path Kernels.]<br>
+Yilan Chen, Wei Huang, Hao Wang, Charlotte Loh, Akash Srivastava, Lam M. Nguyen, Tsui-Wei Weng.<br>
+Thirty-seventh Conference on Neural Information Processing Systems (NeurIPS 2023).
+
 - [Analyzing Deep PAC-Bayesian Learning with Neural Tangent Kernel: Convergence, Analytic Generalization Bound, and Efficient Hyperparameter Selection.](https://openreview.net/forum?id=nEX2q5B2RQ)<br>
 Wei Huang\*, Chunrui Liu\*, Yilan Chen, Richard Yi Da Xu, Miao Zhang, Tsui-Wei Weng.<br>
 Transactions on Machine Learning Research (TMLR 2023).
