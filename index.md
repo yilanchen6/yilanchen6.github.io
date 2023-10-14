@@ -21,6 +21,7 @@ I am a second-year Ph.D. student in [Computer Science and Engineering Department
 I received my master of science degree from UCSD and bachelor of engineering degree from [Xi'an Jiaotong University](http://en.xjtu.edu.cn/). 
 <!-- Here is my [CV](/files/CV_Yilan_Chen.pdf).  -->
 
+[Google Scholar](https://scholar.google.com/citations?user=6wmzpRIAAAAJ&hl=en)
 
 
 <br clear="left"/>
@@ -35,7 +36,7 @@ I received my master of science degree from UCSD and bachelor of engineering deg
 
 
 <!-- I am interested in theoretical machine learning and its applications, especially  -->
-My current research interests are theoretical machine learning and its applications, with a focus on deep learning theory (optimization, generalization, and robustness). My research goal is to establish principled theoretical foundations for modern deep learning models.
+My current research interests are theoretical machine learning and its applications, with a focus on deep learning theory (optimization, generalization, and robustness). My research goal is to establish theoretical foundations for modern deep learning models and develop principled algorithms for applicaitons.
 
 <!-- - Reinforcement learning theory -->
 
