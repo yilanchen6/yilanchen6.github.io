@@ -21,7 +21,7 @@ I am a second-year Ph.D. student in [Computer Science and Engineering Department
 I received my master of science degree from UCSD and bachelor of engineering degree from [Xi'an Jiaotong University](http://en.xjtu.edu.cn/). 
 <!-- Here is my [CV](/files/CV_Yilan_Chen.pdf).  -->
 
-[[Google Scholar](https://scholar.google.com/citations?user=6wmzpRIAAAAJ&hl=en)]
+[[Google Scholar]](https://scholar.google.com/citations?user=6wmzpRIAAAAJ&hl=en)
 
 
 <br clear="left"/>
