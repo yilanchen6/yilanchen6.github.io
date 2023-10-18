@@ -36,7 +36,7 @@ I received my master of science degree from UCSD and bachelor of engineering deg
 
 
 <!-- I am interested in theoretical machine learning and its applications, especially  -->
-My current research interests are theoretical machine learning and its applications, with a focus on deep learning theory (optimization, generalization, and robustness). My research goal is to establish theoretical foundations for modern deep learning models and develop principled algorithms for applicaitons.
+My current research interests are theoretical machine learning and its applications, with a focus on deep learning theory (optimization, generalization, and robustness). My research goal is to establish theoretical foundations for modern deep learning models and develop principled algorithms for real-world applicaitons.
 
 <!-- - Reinforcement learning theory -->
 
@@ -49,11 +49,11 @@ My current research interests are theoretical machine learning and its applicati
 <u>Yilan Chen</u>, Wei Huang, Hao Wang, Charlotte Loh, Akash Srivastava, Lam M. Nguyen, Tsui-Wei Weng.<br>
 Thirty-seventh Conference on Neural Information Processing Systems (NeurIPS 2023).
 
-- [Analyzing Deep PAC-Bayesian Learning with Neural Tangent Kernel: Convergence, Analytic Generalization Bound, and Efficient Hyperparameter Selection.](https://openreview.net/forum?id=nEX2q5B2RQ)<br>
+- [Analyzing Deep PAC-Bayesian Learning with Neural Tangent Kernel: Convergence, Analytic Generalization Bound, and Efficient Hyperparameter Selection.](https://openreview.net/pdf?id=nEX2q5B2RQ)<br>
 Wei Huang\*, Chunrui Liu\*, <u>Yilan Chen</u>, Richard Yi Da Xu, Miao Zhang, Tsui-Wei Weng.<br>
 Transactions on Machine Learning Research (TMLR 2023).
 
-- [On the Equivalence between Neural Network and Support Vector Machine.](https://arxiv.org/abs/2111.06063) [[code]](https://github.com/leslie-CH/equiv-nn-svm)[[slides]](/files/SVM_Slides.pdf)[[poster]](/files/SVM_NeurIPS_2021_poster.pdf)[[video]](https://neurips.cc/virtual/2021/poster/27419)<br>
+- [On the Equivalence between Neural Network and Support Vector Machine.](https://arxiv.org/pdf/2111.06063.pdf) [[code]](https://github.com/leslie-CH/equiv-nn-svm)[[slides]](/files/SVM_Slides.pdf)[[poster]](/files/SVM_NeurIPS_2021_poster.pdf)[[video]](https://neurips.cc/virtual/2021/poster/27419)<br>
 <u>Yilan Chen</u>, Wei Huang, Lam M. Nguyen, Tsui-Wei Weng.<br>
 Thirty-fifth Conference on Neural Information Processing Systems (NeurIPS 2021).
 
@@ -61,7 +61,7 @@ Thirty-fifth Conference on Neural Information Processing Systems (NeurIPS 2021).
 Quanshi Zhang\*, Xu Cheng\*, <u>Yilan Chen</u>, Zhefan Rao.<br>
 IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI 2023).
 
-- [Explaining Knowledge Distillation by Quantifying the Knowledge.](https://arxiv.org/abs/2003.03622)<br>
+- [Explaining Knowledge Distillation by Quantifying the Knowledge.](https://arxiv.org/pdf/2003.03622.pdf)<br>
 Xu Cheng, Zhefan Rao\*, <u>Yilan Chen</u>\*, Quanshi Zhang.<br>
 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2020).
 
