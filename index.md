@@ -49,8 +49,13 @@ My current research interests are theoretical machine learning and its applicati
 <u>Yilan Chen</u>, Wei Huang, Hao Wang, Charlotte Loh, Akash Srivastava, Lam M. Nguyen, Tsui-Wei Weng.<br>
 Thirty-seventh Conference on Neural Information Processing Systems (NeurIPS 2023).
 
+
+- [The Importance of Prompt Tuning for Automated Neuron Explanations.](https://arxiv.org/pdf/2310.06200.pdf)<br>
+Justin Lee<sup>1</sup>, Tuomas Oikarinen<sup>1</sup>, Arjun Chatha, Keng-Chi Chang<sup>3</sup>, <u>Yilan Chen</u><sup>3</sup>, Tsui-Wei Weng.<br>
+NeurIPS 2023 Workshop on Attributing Model Behavior at Scale.
+
 - [Analyzing Deep PAC-Bayesian Learning with Neural Tangent Kernel: Convergence, Analytic Generalization Bound, and Efficient Hyperparameter Selection.](https://openreview.net/pdf?id=nEX2q5B2RQ)<br>
-Wei Huang\*, Chunrui Liu\*, <u>Yilan Chen</u>, Richard Yi Da Xu, Miao Zhang, Tsui-Wei Weng.<br>
+Wei Huang<sup>1</sup>, Chunrui Liu<sup>1</sup>, <u>Yilan Chen</u>, Richard Yi Da Xu, Miao Zhang, Tsui-Wei Weng.<br>
 Transactions on Machine Learning Research (TMLR 2023).
 
 - [On the Equivalence between Neural Network and Support Vector Machine.](https://arxiv.org/pdf/2111.06063.pdf) [[code]](https://github.com/leslie-CH/equiv-nn-svm)[[slides]](/files/SVM_Slides.pdf)[[poster]](/files/SVM_NeurIPS_2021_poster.pdf)[[video]](https://neurips.cc/virtual/2021/poster/27419)<br>
@@ -58,11 +63,11 @@ Transactions on Machine Learning Research (TMLR 2023).
 Thirty-fifth Conference on Neural Information Processing Systems (NeurIPS 2021).
 
 - [Quantifying the Knowledge in a DNN to Explain Knowledge Distillation for Classification.](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9864081)<br>
-Quanshi Zhang\*, Xu Cheng\*, <u>Yilan Chen</u>, Zhefan Rao.<br>
+Quanshi Zhang<sup>1</sup>, Xu Cheng<sup>1</sup>, <u>Yilan Chen</u>, Zhefan Rao.<br>
 IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI 2023).
 
 - [Explaining Knowledge Distillation by Quantifying the Knowledge.](https://arxiv.org/pdf/2003.03622.pdf)<br>
-Xu Cheng, Zhefan Rao\*, <u>Yilan Chen</u>\*, Quanshi Zhang.<br>
+Xu Cheng, Zhefan Rao<sup>2</sup>, <u>Yilan Chen</u><sup>2</sup>, Quanshi Zhang.<br>
 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2020).
 
 
