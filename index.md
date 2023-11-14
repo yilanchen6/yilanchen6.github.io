@@ -15,7 +15,7 @@ https://david-abel.github.io/index.html -->
 <figcaption>2019 at Beijing.</figcaption>
 </figure> -->
 
-<img src="/images/chenyilan.JPG" align="left" width="200px" style="margin-right:20px" alt="Yilan's picture" title="2019 at Beijing."/>
+<img src="/images/chenyilan.JPG" align="left" width="200px" style="margin-right:20px" alt="Yilan's picture" title="Yilan."/>
 I am a second-year Ph.D. student in [Computer Science and Engineering Department](https://cse.ucsd.edu/) at University of California San Diego (UCSD). I'm fortunate to be advised by Prof. [Tsui-Wei (Lily) Weng](https://lilywenglab.github.io/). 
 <!-- Before that, I spent some time as a research intern at [University of Technology Sydney](https://www.uts.edu.au/), advised by Prof. [Richard Xu](https://www.uts.edu.au/staff/yida.xu) and [Shanghai Jiao Tong University](http://en.sjtu.edu.cn/), advised by Prof. [Quanshi Zhang](http://qszhang.com/).  -->
 I received my master of science degree from UCSD and bachelor of engineering degree from [Xi'an Jiaotong University](http://en.xjtu.edu.cn/). 
@@ -38,13 +38,14 @@ I received my master of science degree from UCSD and bachelor of engineering deg
 <!-- I am interested in theoretical machine learning and its applications, especially  -->
 My current research interests are theoretical machine learning and its applications, with a focus on deep learning theory (optimization, generalization, and robustness). My research goal is to establish theoretical foundations for modern deep learning models and develop principled algorithms for real-world applicaitons.
 
+Feel free to drop me an email if you want to collabrate or have a discussion!
 <!-- - Reinforcement learning theory -->
 
 
 
 
 ## Publications
-- [Analyzing Generalization of Neural Networks through Loss Path Kernels.](https://openreview.net/pdf?id=8Ba7VJ7xiM)<br>
+- [Analyzing Generalization of Neural Networks through Loss Path Kernels.](https://openreview.net/pdf?id=8Ba7VJ7xiM) [[slides]](/files/LPK.pdf)<br>
 <u>Yilan Chen</u>, Wei Huang, Hao Wang, Charlotte Loh, Akash Srivastava, Lam M. Nguyen, Tsui-Wei Weng.<br>
 Thirty-seventh Conference on Neural Information Processing Systems (NeurIPS 2023).
 
