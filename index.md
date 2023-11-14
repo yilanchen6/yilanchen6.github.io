@@ -96,8 +96,9 @@ IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2020).
 
 
 ## Teaching
-- [DSC 291 Trustworthy Machine Learning](https://lilywenglab.github.io/dsc-291-sp23/), Tutor, Fall 2021
 - [DSC 210 Numerical Linear Algebra](https://lilywenglab.github.io/DSC-210-fa23/), TA, Fall 2023
+- [DSC 291 Trustworthy Machine Learning](https://lilywenglab.github.io/dsc-291-sp23/), Tutor, Fall 2021
+
 
 
 
