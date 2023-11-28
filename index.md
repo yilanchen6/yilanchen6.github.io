@@ -84,9 +84,9 @@ IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2020).
 
 
 
-## Notes
+<!-- ## Notes
 - [A Note about NTK Derivation](/files/ntk_derivation.pdf)
-- [Some Derivations and Proofs about Linearized Networks](/files/linearized_network.pdf)
+- [Some Derivations and Proofs about Linearized Networks](/files/linearized_network.pdf) -->
 
 
 <!-- **<font size='5'>Projects</font>**
