@@ -42,8 +42,8 @@ I received my master of science degree from UCSD and bachelor of engineering deg
 My research aims to bridge the gap between theory and applications of machine learning by establishing theoretical foundations for modern deep learning models and developing principled algorithms for real-world applications.
 
 Interested topics: 
-- deep learning theory (optimization, generalization, robustness)
-- theory for large language models and foundation models
+- Deep learning theory (optimization, generalization, robustness)
+- Theory for large language models and foundation models
 
 Feel free to drop me an email if you would like to collabrate or have a discussion!
 <!-- - Reinforcement learning theory -->
