@@ -44,6 +44,7 @@ My research aims to bridge the gap between theory and applications of machine le
 Interested topics: 
 - Deep learning theory (optimization, generalization, robustness)
 - Theory for large language models and foundation models
+- Principled algorithms for real-world applications
 
 Feel free to drop me an email if you would like to collabrate or have a discussion!
 <!-- - Reinforcement learning theory -->
