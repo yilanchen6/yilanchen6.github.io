@@ -37,9 +37,9 @@ I received my master of science degree from UCSD and bachelor of engineering deg
 
 
 <!-- I am interested in theoretical machine learning and its applications, especially  -->
-<!-- My current research interests are theoretical machine learning and its applications, with a focus on deep learning theory (optimization, generalization, and robustness). My research goal is to establish theoretical foundations for modern deep learning models and develop principled algorithms for real-world applications. -->
+My current research interests are theoretical machine learning and its applications, with a focus on deep learning theory (optimization, generalization, and robustness). My research goal is to establish theoretical foundations for modern deep learning models and develop principled algorithms for real-world applications.
 
-My research aims to bridge the gap between theory and applications of machine learning by establishing theoretical foundations for modern deep learning models and developing principled algorithms for real-world applications.
+<!-- My research aims to bridge the gap between theory and applications of machine learning by establishing theoretical foundations for modern deep learning models and developing principled algorithms for real-world applications. -->
 
 Interested topics: 
 - Deep learning theory (optimization, generalization, robustness)
