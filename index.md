@@ -53,7 +53,7 @@ Feel free to drop me an email if you would like to collabrate or have a discussi
 
 
 ## Publications
-- [Analyzing Generalization of Neural Networks through Loss Path Kernels.](https://openreview.net/pdf?id=8Ba7VJ7xiM) [[slides]](/files/LPK.pdf)<br>
+- [Analyzing Generalization of Neural Networks through Loss Path Kernels.](https://openreview.net/pdf?id=8Ba7VJ7xiM) [[slides]](/files/LPK.pdf) [[video]](https://nips.cc/virtual/2023/poster/72664)<br>
 <u>Yilan Chen</u>, Wei Huang, Hao Wang, Charlotte Loh, Akash Srivastava, Lam M. Nguyen, Tsui-Wei Weng.<br>
 Thirty-seventh Conference on Neural Information Processing Systems (NeurIPS 2023).
 
@@ -85,7 +85,10 @@ IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2020).
 
 
 
-
+## Talks
+Analyzing Generalization of Neural Networks through Loss Path Kernels
+- Jan 2024 - ByteDance
+- Nov 2023 - AI TIME
 
 
 
