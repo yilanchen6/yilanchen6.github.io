@@ -22,7 +22,8 @@ I received my master of science degree from UCSD and bachelor of engineering deg
 <!-- Here is my [CV](/files/CV_Yilan_Chen.pdf).  -->
 
 [[Google Scholar]](https://scholar.google.com/citations?user=6wmzpRIAAAAJ&hl=en) 
-<!-- [[Zhihu]](https://scholar.google.com/citations?user=6wmzpRIAAAAJ&hl=en) -->
+[[Twitter]](https://twitter.com/yilanchen06)
+[[Zhihu]](https://scholar.google.com/citations?user=6wmzpRIAAAAJ&hl=en)
 
 
 <br clear="left"/>
