@@ -23,7 +23,7 @@ I received my M.S. degree from UCSD and B.E. degree from [Xi'an Jiaotong Univers
 
 [[Google Scholar]](https://scholar.google.com/citations?user=6wmzpRIAAAAJ&hl=en) 
 [[Twitter]](https://twitter.com/yilanchen06)
-[[Zhihu]](https://scholar.google.com/citations?user=6wmzpRIAAAAJ&hl=en)
+[[Zhihu]](https://www.zhihu.com/people/yilan-24-8)
 
 
 <br clear="left"/>
