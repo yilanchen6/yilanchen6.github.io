@@ -15,7 +15,7 @@ https://david-abel.github.io/index.html -->
 <figcaption>2019 at Beijing.</figcaption>
 </figure> -->
 
-<img src="/images/chenyilan.JPG" align="left" width="200px" style="margin-right:20px" alt="Yilan's picture" title="Yilan."/>
+<img src="/images/chenyilan3.JPG" align="left" width="200px" style="margin-right:20px" alt="Yilan's picture" title="Yilan."/>
 I am a second-year Ph.D. student in [Computer Science and Engineering Department](https://cse.ucsd.edu/) at University of California San Diego (UCSD). I'm fortunate to be advised by Prof. [Tsui-Wei (Lily) Weng](https://lilywenglab.github.io/). 
 <!-- Before that, I spent some time as a research intern at [University of Technology Sydney](https://www.uts.edu.au/), advised by Prof. [Richard Xu](https://www.uts.edu.au/staff/yida.xu) and [Shanghai Jiao Tong University](http://en.sjtu.edu.cn/), advised by Prof. [Quanshi Zhang](http://qszhang.com/).  -->
 I received my M.S. degree from UCSD and B.E. degree from [Xi'an Jiaotong University](http://en.xjtu.edu.cn/). 
