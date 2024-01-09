@@ -88,7 +88,7 @@ IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2020).
 
 ## Invited Talks
 Analyzing Generalization of Neural Networks through Loss Path Kernels
-<!-- - Jan 2024 - ByteDance -->
+- Jan 2024 - ByteDance
 - Nov 2023 - AI TIME
 
 
