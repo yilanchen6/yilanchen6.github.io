@@ -136,7 +136,7 @@ Analyzing Generalization of Neural Networks through Loss Path Kernels
 
 
 ## Professional Service
-- Reviewer: ICML (2022, 2023), NeurIPS (2022), ICLR (2022)
+- Reviewer: ICML (2022, 2023), NeurIPS (2022), ICLR (2022), JOTA
 - Program Committee: AAAI 2023 Workshop MLmDS
 
 
