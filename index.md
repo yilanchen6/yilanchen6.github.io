@@ -54,7 +54,7 @@ Feel free to drop me an email if you would like to collabrate or have a discussi
 
 
 ## Publications
-- [Cross-Task Linearity Emerges in the Pretraining-Finetuning Paradigm](https://arxiv.org/pdf/2402.03660.pdf)<br>
+- [Cross-Task Linearity Emerges in the Pretraining-Finetuning Paradigm.](https://arxiv.org/pdf/2402.03660.pdf)<br>
 Zhanpeng Zhou<sup>1</sup>, Zijun Chen<sup>1</sup>, <u>Yilan Chen</u>, Bo Zhang, Junchi Yan.<br>
 arXiv 2024.
 
