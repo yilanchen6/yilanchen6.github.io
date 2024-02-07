@@ -54,13 +54,18 @@ Feel free to drop me an email if you would like to collabrate or have a discussi
 
 
 ## Publications
+- [Cross-Task Linearity Emerges in the Pretraining-Finetuning Paradigm](https://arxiv.org/pdf/2402.03660.pdf)<br>
+Zhanpeng Zhou<sup>1</sup>, Zijun Chen<sup>1</sup>, <u>Yilan Chen</u>, Bo Zhang, Junchi Yan.<br>
+arXiv 2024.
+
+
 - [Analyzing Generalization of Neural Networks through Loss Path Kernels.](https://openreview.net/pdf?id=8Ba7VJ7xiM) [[slides]](/files/LPK.pdf) [[poster]](/files/LPK_poster.pdf) [[video]](https://nips.cc/virtual/2023/poster/72664)<br>
 <u>Yilan Chen</u>, Wei Huang, Hao Wang, Charlotte Loh, Akash Srivastava, Lam M. Nguyen, Tsui-Wei Weng.<br>
 Thirty-seventh Conference on Neural Information Processing Systems (NeurIPS 2023).
 
 
 - [The Importance of Prompt Tuning for Automated Neuron Explanations.](https://arxiv.org/pdf/2310.06200.pdf)<br>
-Justin Lee<sup>1</sup>, Tuomas Oikarinen<sup>1</sup>, Arjun Chatha, Keng-Chi Chang<sup>3</sup>, <u>Yilan Chen</u><sup>3</sup>, Tsui-Wei Weng.<br>
+Justin Lee<sup>1</sup>, Tuomas Oikarinen<sup>1</sup>, Arjun Chatha, Keng-Chi Chang, <u>Yilan Chen</u>, Tsui-Wei Weng.<br>
 NeurIPS 2023 Workshop on Attributing Model Behavior at Scale.
 
 - [Analyzing Deep PAC-Bayesian Learning with Neural Tangent Kernel: Convergence, Analytic Generalization Bound, and Efficient Hyperparameter Selection.](https://openreview.net/pdf?id=nEX2q5B2RQ)<br>
