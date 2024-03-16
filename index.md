@@ -143,8 +143,9 @@ Analyzing Generalization of Neural Networks through Loss Path Kernels [[slides]]
 
 
 ## Professional Service
-- Reviewer: ICML (2022, 2023), NeurIPS (2022), ICLR (2022), JOTA
-- Program Committee: AAAI 2023 Workshop MLmDS
+- Conference Reviewer: ICML (2022, 2023, 2024), NeurIPS (2022), ICLR (2022) 
+- Journal Reviewer: Journal of Optimization Theory and Applications (JOTA)
+<!-- - Program Committee: AAAI 2023 Workshop MLmDS -->
 
 
 
