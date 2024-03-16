@@ -57,7 +57,7 @@ Feel free to drop me an email if you would like to collabrate or have a discussi
 
 ### Machine Learning Theory
 - [Cross-Task Linearity Emerges in the Pretraining-Finetuning Paradigm.](https://arxiv.org/pdf/2402.03660.pdf)<br>
-Zhanpeng Zhou<sup>*</sup>, Zijun Chen<sup>*</sup>, <u>Yilan Chen</u>, Bo Zhang, Junchi Yan.<br>
+Zhanpeng Zhou<sup>1</sup>, Zijun Chen<sup>1</sup>, <u>Yilan Chen</u>, Bo Zhang, Junchi Yan.<br>
 arXiv 2024.
 
 - [Analyzing Generalization of Neural Networks through Loss Path Kernels.](https://openreview.net/pdf?id=8Ba7VJ7xiM) [[slides]](/files/LPK.pdf) [[poster]](/files/LPK_poster.pdf) [[video]](https://nips.cc/virtual/2023/poster/72664)<br>
@@ -65,7 +65,7 @@ arXiv 2024.
 Thirty-seventh Conference on Neural Information Processing Systems (NeurIPS 2023).
 
 - [Analyzing Deep PAC-Bayesian Learning with Neural Tangent Kernel: Convergence, Analytic Generalization Bound, and Efficient Hyperparameter Selection.](https://openreview.net/pdf?id=nEX2q5B2RQ)<br>
-Wei Huang<sup>*</sup>, Chunrui Liu<sup>*</sup>, <u>Yilan Chen</u>, Richard Yi Da Xu, Miao Zhang, Tsui-Wei Weng.<br>
+Wei Huang<sup>1</sup>, Chunrui Liu<sup>1</sup>, <u>Yilan Chen</u>, Richard Yi Da Xu, Miao Zhang, Tsui-Wei Weng.<br>
 Transactions on Machine Learning Research (TMLR 2023).
 
 - [On the Equivalence between Neural Network and Support Vector Machine.](https://arxiv.org/pdf/2111.06063.pdf) [[code]](https://github.com/leslie-CH/equiv-nn-svm)[[slides]](/files/SVM_Slides.pdf)[[poster]](/files/SVM_NeurIPS_2021_poster.pdf)[[video]](https://neurips.cc/virtual/2021/poster/27419)<br>
@@ -75,15 +75,15 @@ Thirty-fifth Conference on Neural Information Processing Systems (NeurIPS 2021).
 
 ### Interpretable Machine Learning
 - [The Importance of Prompt Tuning for Automated Neuron Explanations.](https://arxiv.org/pdf/2310.06200.pdf)<br>
-Justin Lee<sup>*</sup>, Tuomas Oikarinen<sup>*</sup>, Arjun Chatha, Keng-Chi Chang, <u>Yilan Chen</u>, Tsui-Wei Weng.<br>
+Justin Lee<sup>1</sup>, Tuomas Oikarinen<sup>1</sup>, Arjun Chatha, Keng-Chi Chang, <u>Yilan Chen</u>, Tsui-Wei Weng.<br>
 NeurIPS 2023 Workshop on Attributing Model Behavior at Scale.
 
 - [Quantifying the Knowledge in a DNN to Explain Knowledge Distillation for Classification.](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9864081)<br>
-Quanshi Zhang<sup>*</sup>, Xu Cheng<sup>*</sup>, <u>Yilan Chen</u>, Zhefan Rao.<br>
+Quanshi Zhang<sup>1</sup>, Xu Cheng<sup>1</sup>, <u>Yilan Chen</u>, Zhefan Rao.<br>
 IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI 2023).
 
 - [Explaining Knowledge Distillation by Quantifying the Knowledge.](https://arxiv.org/pdf/2003.03622.pdf)<br>
-Xu Cheng, Zhefan Rao<sup>*</sup>, <u>Yilan Chen</u><sup>*</sup>, Quanshi Zhang.<br>
+Xu Cheng, Zhefan Rao<sup>2</sup>, <u>Yilan Chen</u><sup>2</sup>, Quanshi Zhang.<br>
 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2020).
 
 
