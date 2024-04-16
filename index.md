@@ -115,7 +115,7 @@ Analyzing Generalization of Neural Networks through Loss Path Kernels [[slides]]
 
 
 ## Teaching
-- [DSC 140B: Representation Learning, Teaching Assistant](https://lilywenglab.github.io/DSC-140B-SP24/), TA, Spring 2024
+- [DSC 140B: Representation Learning](https://lilywenglab.github.io/DSC-140B-SP24/), TA, Spring 2024
 - [DSC 210: Numerical Linear Algebra](https://lilywenglab.github.io/DSC-210-fa23/), TA, Fall 2023
 - [DSC 291: Trustworthy Machine Learning](https://lilywenglab.github.io/dsc-291-sp23/), Tutor, Fall 2021
 
