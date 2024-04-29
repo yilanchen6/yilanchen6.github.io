@@ -147,7 +147,7 @@ Analyzing Generalization of Neural Networks through Loss Path Kernels [[slides]]
 
 
 ## Professional Service
-- Conference Reviewer: ICML (2022, 2023, 2024), NeurIPS (2022), ICLR (2022) 
+- Conference Reviewer: ICML, NeurIPS, ICLR
 - Journal Reviewer: Journal of Optimization Theory and Applications (JOTA)
 <!-- - Program Committee: AAAI 2023 Workshop MLmDS -->
 
@@ -157,4 +157,4 @@ Analyzing Generalization of Neural Networks through Loss Path Kernels [[slides]]
 ## Contact
 
 University of California San Diego, La Jolla, CA<br>
-Email: yilan [at] ucsd.edu
+Email: yic031 [at] ucsd.edu
