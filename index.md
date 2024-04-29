@@ -94,9 +94,12 @@ IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2020).
 
 
 ## Invited Talks
+Analyzing Neural Networks through Equivalent Kernels [[slides]](/files/LPK_SOCAMS.pdf)
+- [Southern California Applied Mathematics Symposium (SOCAMS)](https://www.socams.org/home) - Apr 2024
+
 Analyzing Generalization of Neural Networks through Loss Path Kernels [[slides]](/files/LPK.pdf)
-- Jan 2024 - ByteDance 
-- Nov 2023 - AI TIME
+- ByteDance - Jan 2024
+- AI TIME - Nov 2023
 
 
 
