@@ -58,7 +58,7 @@ Feel free to drop me an email if you would like to collabrate or have a discussi
 ### Machine Learning Theory
 - [Cross-Task Linearity Emerges in the Pretraining-Finetuning Paradigm.](https://arxiv.org/pdf/2402.03660.pdf)<br>
 Zhanpeng Zhou<sup>1</sup>, Zijun Chen<sup>1</sup>, <u>Yilan Chen</u>, Bo Zhang, Junchi Yan.<br>
-The Forty-first International Conference on Machine Learning (ICML 24).
+Forty-first International Conference on Machine Learning (ICML 24).
 
 - [Analyzing Generalization of Neural Networks through Loss Path Kernels.](https://openreview.net/pdf?id=8Ba7VJ7xiM) [[slides]](/files/LPK.pdf) [[poster]](/files/LPK_poster.pdf) [[video]](https://nips.cc/virtual/2023/poster/72664)<br>
 <u>Yilan Chen</u>, Wei Huang, Hao Wang, Charlotte Loh, Akash Srivastava, Lam M. Nguyen, Tsui-Wei Weng.<br>
