@@ -27,11 +27,10 @@ I received my M.S. degree from UCSD and B.E. degree from [Xi'an Jiaotong Univers
 [[Zhihu]](https://www.zhihu.com/people/yilan-24-8/posts)
 
 
-<br clear="left"/>
 
 I am interning at [deep learning theory team](https://aip.riken.jp/labs/generic_tech/deep_learn_theory/) in RIKEN AIP advised by Prof. [Taiji Suzuki](https://ibis.t.u-tokyo.ac.jp/suzuki/) this summer.
 
-
+<br clear="left"/>
 
 
 
