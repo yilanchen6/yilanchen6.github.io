@@ -96,7 +96,7 @@ IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2020).
 
 ## Talks
 Analyzing Neural Networks through Equivalent Kernels [[slides]](/files/LPK_SOCAMS.pdf)
-- Aug 2024 - [The 2nd RIKEN AIP – SJTU CS Joint Workshop on Machine Learning and Brain-like Intelligence](https://tensorworkshop.github.io/RIKENAIP_SJTUCS2024/)
+- Aug 2024 - [RIKEN AIP – SJTU CS Joint Workshop on Machine Learning and Brain-like Intelligence](https://tensorworkshop.github.io/RIKENAIP_SJTUCS2024/)
 - Apr 2024 - [Southern California Applied Mathematics Symposium (SOCAMS 2024)](https://www.socams.org/home)
 
 Analyzing Generalization of Neural Networks through Loss Path Kernels [[slides]](/files/LPK.pdf)
