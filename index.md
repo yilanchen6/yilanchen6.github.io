@@ -150,7 +150,7 @@ Analyzing Generalization of Neural Networks through Loss Path Kernels [[slides]]
 
 ## Professional Service
 - Conference Reviewer: ICML, NeurIPS, ICLR
-- Journal Reviewer: Journal of Optimization Theory and Applications (JOTA)
+<!-- - Journal Reviewer: Journal of Optimization Theory and Applications (JOTA) -->
 <!-- - Program Committee: AAAI 2023 Workshop MLmDS -->
 
 
