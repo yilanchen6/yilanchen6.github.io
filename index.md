@@ -16,7 +16,7 @@ https://david-abel.github.io/index.html -->
 </figure> -->
 
 <img src="/images/chenyilan3.jpg" align="left" width="200px" style="margin-right:20px" alt="Yilan's picture" title="Yilan."/>
-I am a Ph.D. student in [Computer Science and Engineering Department](https://cse.ucsd.edu/) at University of California San Diego (UCSD). I also work closely with Prof. [Taiji Suzuki](https://ibis.t.u-tokyo.ac.jp/suzuki/) at university of Tokyo.
+I am a Ph.D. student in [Computer Science and Engineering Department](https://cse.ucsd.edu/) at University of California San Diego (UCSD). I also work closely with Prof. [Taiji Suzuki](https://ibis.t.u-tokyo.ac.jp/suzuki/) at University of Tokyo.
 <!-- I'm fortunate to be advised by Prof. [Tsui-Wei (Lily) Weng](https://lilywenglab.github.io/).  -->
 I received my M.S. degree from UCSD and B.E. degree from [Xi'an Jiaotong University](http://en.xjtu.edu.cn/). 
 <!-- Here is my [CV](/files/CV_Yilan_Chen.pdf).  -->
@@ -37,11 +37,11 @@ I received my M.S. degree from UCSD and B.E. degree from [Xi'an Jiaotong Univers
 ## Research Interests
 
 
-My current research interests are theoretical machine learning and its applications, with a focus on deep learning theory (optimization, generalization, and robustness). My research goal is to establish theoretical foundations for modern deep learning models and develop principled algorithms for real-world applications.
+<!-- My current research interests are theoretical machine learning and its applications, with a focus on deep learning theory (optimization, generalization, and robustness). My research goal is to establish theoretical foundations for modern deep learning models and develop principled algorithms for real-world applications. -->
 
 <!-- My research aims to bridge the gap between theory and applications of machine learning by establishing theoretical foundations for modern deep learning models and developing principled algorithms for real-world applications. -->
 
-Interested topics: 
+My current research interests are theoretical machine learning and its applications, especially
 - Deep learning theory (optimization, generalization, robustness)
 - Large language models and foundation models
 - Principled algorithms for real-world applications
