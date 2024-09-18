@@ -16,9 +16,8 @@ https://david-abel.github.io/index.html -->
 </figure> -->
 
 <img src="/images/chenyilan3.jpg" align="left" width="200px" style="margin-right:20px" alt="Yilan's picture" title="Yilan."/>
-I am a Ph.D. student in [Computer Science and Engineering Department](https://cse.ucsd.edu/) at University of California San Diego (UCSD). 
+I am a Ph.D. student in [Computer Science and Engineering Department](https://cse.ucsd.edu/) at University of California San Diego (UCSD). I also work closely with Prof. [Taiji Suzuki](https://ibis.t.u-tokyo.ac.jp/suzuki/) at university of Tokyo.
 <!-- I'm fortunate to be advised by Prof. [Tsui-Wei (Lily) Weng](https://lilywenglab.github.io/).  -->
-<!-- Before that, I spent some time as a research intern at [University of Technology Sydney](https://www.uts.edu.au/), advised by Prof. [Richard Xu](https://www.uts.edu.au/staff/yida.xu) and [Shanghai Jiao Tong University](http://en.sjtu.edu.cn/), advised by Prof. [Quanshi Zhang](http://qszhang.com/).  -->
 I received my M.S. degree from UCSD and B.E. degree from [Xi'an Jiaotong University](http://en.xjtu.edu.cn/). 
 <!-- Here is my [CV](/files/CV_Yilan_Chen.pdf).  -->
 
@@ -28,7 +27,7 @@ I received my M.S. degree from UCSD and B.E. degree from [Xi'an Jiaotong Univers
 
 
 
-I am interning at [deep learning theory team](https://aip.riken.jp/labs/generic_tech/deep_learn_theory/) in RIKEN AIP advised by Prof. [Taiji Suzuki](https://ibis.t.u-tokyo.ac.jp/suzuki/) this summer.
+<!-- I am interning at [deep learning theory team](https://aip.riken.jp/labs/generic_tech/deep_learn_theory/) in RIKEN AIP advised by Prof. [Taiji Suzuki](https://ibis.t.u-tokyo.ac.jp/suzuki/) this summer. -->
 
 
 <br clear="left"/>
@@ -38,14 +37,13 @@ I am interning at [deep learning theory team](https://aip.riken.jp/labs/generic_
 ## Research Interests
 
 
-<!-- I am interested in theoretical machine learning and its applications, especially  -->
 My current research interests are theoretical machine learning and its applications, with a focus on deep learning theory (optimization, generalization, and robustness). My research goal is to establish theoretical foundations for modern deep learning models and develop principled algorithms for real-world applications.
 
 <!-- My research aims to bridge the gap between theory and applications of machine learning by establishing theoretical foundations for modern deep learning models and developing principled algorithms for real-world applications. -->
 
 Interested topics: 
 - Deep learning theory (optimization, generalization, robustness)
-- Theory for large language models and foundation models
+- Large language models and foundation models
 - Principled algorithms for real-world applications
 
 Feel free to drop me an email if you would like to collabrate or have a discussion!
