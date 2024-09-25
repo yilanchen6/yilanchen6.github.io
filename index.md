@@ -55,6 +55,10 @@ Feel free to drop me an email if you would like to collabrate or have a discussi
 ## Publications
 
 ### Machine Learning Theory
+- Provable and Efficient Dataset Distillation for Kernel Ridge Regression.<br>
+<u>Yilan Chen</u>, Wei Huang, Tsui-Wei Weng.<br>
+Thirty-eighth Conference on Neural Information Processing Systems (NeurIPS 2024).
+
 - [Cross-Task Linearity Emerges in the Pretraining-Finetuning Paradigm.](https://arxiv.org/pdf/2402.03660.pdf)<br>
 Zhanpeng Zhou<sup>1</sup>, Zijun Chen<sup>1</sup>, <u>Yilan Chen</u>, Bo Zhang, Junchi Yan.<br>
 Forty-first International Conference on Machine Learning (ICML 2024).
