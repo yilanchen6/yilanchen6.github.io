@@ -55,7 +55,7 @@ Feel free to drop me an email if you would like to collabrate or have a discussi
 ## Publications
 
 ### Machine Learning Theory
-- [Provable and Efficient Dataset Distillation for Kernel Ridge Regression.]()<br>
+- [Provable and Efficient Dataset Distillation for Kernel Ridge Regression.](https://openreview.net/pdf?id=WI2VpcBdnd)<br>
 **Yilan Chen**, Wei Huang, Tsui-Wei Weng.<br>
 Thirty-eighth Conference on Neural Information Processing Systems (NeurIPS 2024).
 
