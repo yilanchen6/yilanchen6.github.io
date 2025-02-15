@@ -22,8 +22,8 @@ I received my M.S. degree from UCSD and B.E. degree from [Xi'an Jiaotong Univers
 <!-- Here is my [CV](/files/CV_Yilan_Chen.pdf).  -->
 
 [[Google Scholar]](https://scholar.google.com/citations?user=6wmzpRIAAAAJ&hl=en) 
-[[Twitter]](https://twitter.com/yilanchen06)
-[[Zhihu]](https://www.zhihu.com/people/yilan-24-8/posts)
+<!-- [[Twitter]](https://twitter.com/yilanchen06)
+[[Zhihu]](https://www.zhihu.com/people/yilan-24-8/posts) -->
 
 
 
@@ -59,7 +59,7 @@ Feel free to drop me an email if you would like to collabrate or have a discussi
 **Yilan Chen**, Wei Huang, Tsui-Wei Weng.<br>
 Thirty-eighth Conference on Neural Information Processing Systems (NeurIPS 2024).
 
-- [Cross-Task Linearity Emerges in the Pretraining-Finetuning Paradigm.](https://arxiv.org/pdf/2402.03660.pdf)<br>
+- [Cross-Task Linearity Emerges in the Pretraining-Finetuning Paradigm.](https://arxiv.org/pdf/2402.03660.pdf) [[code]](https://github.com/zzp1012/Cross-Task-Linearity) <br>
 Zhanpeng Zhou<sup>1</sup>, Zijun Chen<sup>1</sup>, **Yilan Chen**, Bo Zhang, Junchi Yan.<br>
 Forty-first International Conference on Machine Learning (ICML 2024).
 
