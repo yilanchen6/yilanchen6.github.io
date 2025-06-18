@@ -16,7 +16,8 @@ https://david-abel.github.io/index.html -->
 </figure> -->
 
 <img src="/images/chenyilan3.jpg" align="left" width="200px" style="margin-right:20px" alt="Yilan's picture" title="Yilan."/>
-I am a Ph.D. student in [Computer Science and Engineering Department](https://cse.ucsd.edu/) at University of California San Diego (UCSD) working with Prof. [Arya Mazumdar](https://mazumdar.ucsd.edu/index.html) and Prof. [Yian Ma](https://sites.google.com/view/yianma/home). I also work closely with Prof. [Taiji Suzuki](https://ibis.t.u-tokyo.ac.jp/suzuki/) at University of Tokyo.
+I am a Ph.D. student in [Computer Science and Engineering Department](https://cse.ucsd.edu/) at University of California San Diego (UCSD) working with Prof. [Arya Mazumdar](https://mazumdar.ucsd.edu/index.html) and Prof. [Yian Ma](https://sites.google.com/view/yianma/home). 
+<!-- I also work closely with Prof. [Taiji Suzuki](https://ibis.t.u-tokyo.ac.jp/suzuki/) at University of Tokyo. -->
 <!-- I'm fortunate to be advised by Prof. [Tsui-Wei (Lily) Weng](https://lilywenglab.github.io/).  -->
 I received my M.S. degree from UCSD and B.E. degree from [Xi'an Jiaotong University](http://en.xjtu.edu.cn/). 
 <!-- Here is my [CV](/files/CV_Yilan_Chen.pdf).  -->
@@ -55,6 +56,11 @@ Feel free to drop me an email if you would like to collabrate or have a discussi
 ## Publications
 
 ### Machine Learning Theory
+- [Generalization Bound of Gradient Flow through Training Trajectory and Data-dependent Kernel.](https://arxiv.org/pdf/2506.11357)<br>
+**Yilan Chen**, Zhichao Wang, Wei Huang, Andi Han, Taiji Suzuki, Arya Mazumdar.<br>
+ArXiv preprint.
+
+
 - [Provable and Efficient Dataset Distillation for Kernel Ridge Regression.](https://openreview.net/pdf?id=WI2VpcBdnd) [[code]](https://github.com/Trustworthy-ML-Lab/provable-efficient-dataset-distill-KRR) [[project page]](https://lilywenglab.github.io/provable-efficient-dataset-distill-KRR/)<br>
 **Yilan Chen**, Wei Huang, Tsui-Wei Weng.<br>
 Thirty-eighth Conference on Neural Information Processing Systems (NeurIPS 2024).
