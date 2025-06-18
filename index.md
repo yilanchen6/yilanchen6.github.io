@@ -103,6 +103,8 @@ IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2020).
 
 
 ## Talks
+Generalization Bound of Gradient Flow through Training Trajectory and Data-dependent Kernel 
+- Mar 2025 - [EnCORE Institute Workshop on Theoretical Perspectives on LLMs](https://sites.google.com/ucsd.edu/encore-llm/)
 Analyzing Neural Networks through Equivalent Kernels [[slides]](/files/LPK_SOCAMS.pdf)
 - Aug 2024 - [RIKEN AIP – SJTU CS Joint Workshop on Machine Learning and Brain-like Intelligence](https://tensorworkshop.github.io/RIKENAIP_SJTUCS2024/)
 - Apr 2024 - [Southern California Applied Mathematics Symposium (SOCAMS 2024)](https://www.socams.org/home)
