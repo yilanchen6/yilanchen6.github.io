@@ -43,8 +43,8 @@ I received my M.S. degree from UCSD and B.E. degree from [Xi'an Jiaotong Univers
 <!-- My research aims to bridge the gap between theory and applications of machine learning by establishing theoretical foundations for modern deep learning models and developing principled algorithms for real-world applications. -->
 
 My current research interests are theoretical machine learning and its applications, especially
-- Deep learning theory
 - Large language models and foundation models
+- Deep learning theory
 - Principled algorithms for real-world applications
 
 Feel free to drop me an email if you would like to collabrate or have a discussion!
@@ -58,8 +58,11 @@ Feel free to drop me an email if you would like to collabrate or have a discussi
 ### Machine Learning Theory
 - [Generalization Bound of Gradient Flow through Training Trajectory and Data-dependent Kernel.](https://arxiv.org/pdf/2506.11357)<br>
 **Yilan Chen**, Zhichao Wang, Wei Huang, Andi Han, Taiji Suzuki, Arya Mazumdar.<br>
-ArXiv preprint.
+Thirty-Ninth Annual Conference on Neural Information Processing Systems (NeurIPS 2025).
 
+- [How Does Label Noise Gradient Descent Improve Generalization in the Low SNR Regime？]()<br>
+Wei Huang, Andi Han, Yujin Song, **Yilan Chen**, Denny Wu, Difan Zou, Taiji Suzuki.<br>
+Thirty-Ninth Annual Conference on Neural Information Processing Systems (NeurIPS 2025).
 
 - [Provable and Efficient Dataset Distillation for Kernel Ridge Regression.](https://openreview.net/pdf?id=WI2VpcBdnd) [[code]](https://github.com/Trustworthy-ML-Lab/provable-efficient-dataset-distill-KRR) [[project page]](https://lilywenglab.github.io/provable-efficient-dataset-distill-KRR/)<br>
 **Yilan Chen**, Wei Huang, Tsui-Wei Weng.<br>
@@ -102,6 +105,28 @@ IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2020).
 
 
 
+
+## Experience
+Google Research, New York, USA.<br>
+- Student researcher, Jun. - Sep. 2025
+- Improving LLM RL Post-training with Knowledge Distillation
+
+RIKEN AIP, Tokyo, Japan.<br>
+- Research intern, Jun. - Sep. 2024
+- Theory of neural networks and language models.
+
+<!-- ## Notes
+- [A Note about NTK Derivation](/files/ntk_derivation.pdf)
+- [Some Derivations and Proofs about Linearized Networks](/files/linearized_network.pdf) -->
+
+
+<!-- **<font size='5'>Projects</font>**
+* [Prototype Selection for Nearest Neighbor](/files/Prototype_Selection.pdf)
+* [Coordinate Descent](/files/coord_desc.pdf) -->
+
+
+
+
 ## Talks
 Generalization Bound of Gradient Flow through Training Trajectory and Data-dependent Kernel 
 - Mar 2025 - [EnCORE Institute Workshop on Theoretical Perspectives on LLMs](https://sites.google.com/ucsd.edu/encore-llm/)
@@ -113,20 +138,6 @@ Analyzing Neural Networks through Equivalent Kernels [[slides]](/files/LPK_SOCAM
 Analyzing Generalization of Neural Networks through Loss Path Kernels [[slides]](/files/LPK.pdf)
 - Jan 2024 - ByteDance
 - Nov 2023 - AI TIME 
-
-
-
-
-
-<!-- ## Notes
-- [A Note about NTK Derivation](/files/ntk_derivation.pdf)
-- [Some Derivations and Proofs about Linearized Networks](/files/linearized_network.pdf) -->
-
-
-<!-- **<font size='5'>Projects</font>**
-* [Prototype Selection for Nearest Neighbor](/files/Prototype_Selection.pdf)
-* [Coordinate Descent](/files/coord_desc.pdf) -->
-
 
 
 
