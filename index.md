@@ -16,7 +16,7 @@ https://david-abel.github.io/index.html -->
 </figure> -->
 
 <img src="/images/chenyilan3.jpg" align="left" width="200px" style="margin-right:20px" alt="Yilan's picture" title="Yilan."/>
-I am a Ph.D. student in [Computer Science and Engineering Department](https://cse.ucsd.edu/) at University of California San Diego (UCSD) working with Prof. [Arya Mazumdar](https://mazumdar.ucsd.edu/index.html) and Prof. [Yian Ma](https://sites.google.com/view/yianma/home). 
+I am a Ph.D. candidate in [Computer Science and Engineering Department](https://cse.ucsd.edu/) at University of California San Diego (UCSD) working with Prof. [Arya Mazumdar](https://mazumdar.ucsd.edu/index.html) and Prof. [Yian Ma](https://sites.google.com/view/yianma/home). 
 <!-- I also work closely with Prof. [Taiji Suzuki](https://ibis.t.u-tokyo.ac.jp/suzuki/) at University of Tokyo. -->
 <!-- I'm fortunate to be advised by Prof. [Tsui-Wei (Lily) Weng](https://lilywenglab.github.io/).  -->
 I received my M.S. degree from UCSD and B.E. degree from [Xi'an Jiaotong University](http://en.xjtu.edu.cn/). 
