@@ -60,8 +60,8 @@ Feel free to drop me an email if you would like to collabrate or have a discussi
 **Yilan Chen**, Zhichao Wang, Wei Huang, Andi Han, Taiji Suzuki, Arya Mazumdar.<br>
 Thirty-Ninth Annual Conference on Neural Information Processing Systems (NeurIPS 2025).
 
-- [How Does Label Noise Gradient Descent Improve Generalization in the Low SNR Regime？]()<br>
-Wei Huang, Andi Han, Yujin Song, **Yilan Chen**, Denny Wu, Difan Zou, Taiji Suzuki.<br>
+- [How Does Label Noise Gradient Descent Improve Generalization in the Low SNR Regime？](https://arxiv.org/pdf/2510.17526)<br>
+Wei Huang<sup>1</sup>, Andi Han<sup>1</sup>, Yujin Song, **Yilan Chen**, Denny Wu, Difan Zou, Taiji Suzuki.<br>
 Thirty-Ninth Annual Conference on Neural Information Processing Systems (NeurIPS 2025).
 
 - [Provable and Efficient Dataset Distillation for Kernel Ridge Regression.](https://openreview.net/pdf?id=WI2VpcBdnd) [[code]](https://github.com/Trustworthy-ML-Lab/provable-efficient-dataset-distill-KRR) [[project page]](https://lilywenglab.github.io/provable-efficient-dataset-distill-KRR/)<br>
