@@ -56,7 +56,7 @@ Feel free to drop me an email if you would like to collabrate or have a discussi
 ## Publications
 
 ### Machine Learning Theory
-- [Generalization Bound of Gradient Flow through Training Trajectory and Data-dependent Kernel.](https://arxiv.org/pdf/2506.11357)<br>
+- [Generalization Bound of Gradient Flow through Training Trajectory and Data-dependent Kernel.](https://openreview.net/pdf/af0ea9dcf0fa1cc544beb7e368004a6cec2d049e.pdf)<br>
 **Yilan Chen**, Zhichao Wang, Wei Huang, Andi Han, Taiji Suzuki, Arya Mazumdar.<br>
 Thirty-Ninth Annual Conference on Neural Information Processing Systems (NeurIPS 2025).
 
