@@ -42,7 +42,7 @@ I received my M.S. degree from UCSD and B.E. degree from [Xi'an Jiaotong Univers
 
 <!-- My research aims to bridge the gap between theory and applications of machine learning by establishing theoretical foundations for modern deep learning models and developing principled algorithms for real-world applications. -->
 
-My current research interests are theoretical machine learning and its applications, especially
+My current research interests include
 - Large language models and foundation models
 - Deep learning theory
 - Principled algorithms for real-world applications
