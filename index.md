@@ -107,9 +107,13 @@ IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2020).
 
 
 ## Experience
+AWS Agentic AI, Santa Clara, USA.<br>
+- Applied Scientist Intern, Jun. - Sep. 2026
+- LLM Post-training: Reinforcement Learning and Distillation 
+
 Google Research, New York, USA.<br>
 - Student researcher, Jun. - Sep. 2025
-- Improving LLM RL Post-training with Knowledge Distillation
+- On-Policy Distillation for LLM Reasoning
 
 RIKEN AIP, Tokyo, Japan.<br>
 - Research intern, Jun. - Sep. 2024
