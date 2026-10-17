@@ -55,6 +55,24 @@ Feel free to drop me an email if you would like to collabrate or have a discussi
 
 ## Publications
 
+### LLM Post-training & Agents
+- [Reward-Aligned Distillation.](https://arxiv.org/pdf/2610.14572) [[project]](https://reward-aligned-distillation.github.io/)<br>
+**Yilan Chen**, Zian Su, Manish Prajapat, Dingmin Wang, Rein Houthooft, Rui Song, Vijay Lingam.<br>
+In submission; also accepted at NeurIPS 2026 PretoPost Workshop.
+
+- [PINT: Privileged Information Internalization for Agentic RL.](https://openreview.net/pdf?id=R1peldcnUL)<br>
+Zian Su, **Yilan Chen**, Manish Prajapat, Rein Houthooft, Rui Song, Vijay Lingam.<br>
+Under review at ACL 2027; also accepted at NeurIPS 2026 PretoPost Workshop.
+
+- [Token Utility for On-Policy Distillation via Local Trust-Region Optimization.](https://arxiv.org/pdf/2610.18883)<br>
+Narayanan Sadagopan, **Yilan Chen**, Vijay Lingam.<br>
+Under review at ICLR 2027; also accepted at NeurIPS 2026 PretoPost Workshop.
+
+- [Cross-Task Linearity Emerges in the Pretraining-Finetuning Paradigm.](https://arxiv.org/pdf/2402.03660.pdf) [[code]](https://github.com/zzp1012/Cross-Task-Linearity) <br>
+Zhanpeng Zhou<sup>1</sup>, Zijun Chen<sup>1</sup>, **Yilan Chen**, Bo Zhang, Junchi Yan.<br>
+Forty-first International Conference on Machine Learning (ICML 2024).
+
+
 ### Machine Learning Theory
 - [Generalization Bound of Gradient Flow through Training Trajectory and Data-dependent Kernel.](https://openreview.net/pdf/af0ea9dcf0fa1cc544beb7e368004a6cec2d049e.pdf)<br>
 **Yilan Chen**, Zhichao Wang, Wei Huang, Andi Han, Taiji Suzuki, Arya Mazumdar.<br>
@@ -67,10 +85,6 @@ Thirty-Ninth Annual Conference on Neural Information Processing Systems (NeurIPS
 - [Provable and Efficient Dataset Distillation for Kernel Ridge Regression.](https://openreview.net/pdf?id=WI2VpcBdnd) [[code]](https://github.com/Trustworthy-ML-Lab/provable-efficient-dataset-distill-KRR) [[project page]](https://lilywenglab.github.io/provable-efficient-dataset-distill-KRR/)<br>
 **Yilan Chen**, Wei Huang, Tsui-Wei Weng.<br>
 Thirty-eighth Conference on Neural Information Processing Systems (NeurIPS 2024).
-
-- [Cross-Task Linearity Emerges in the Pretraining-Finetuning Paradigm.](https://arxiv.org/pdf/2402.03660.pdf) [[code]](https://github.com/zzp1012/Cross-Task-Linearity) <br>
-Zhanpeng Zhou<sup>1</sup>, Zijun Chen<sup>1</sup>, **Yilan Chen**, Bo Zhang, Junchi Yan.<br>
-Forty-first International Conference on Machine Learning (ICML 2024).
 
 - [Analyzing Generalization of Neural Networks through Loss Path Kernels.](https://openreview.net/pdf?id=8Ba7VJ7xiM) [[code]](https://github.com/Trustworthy-ML-Lab/NN-LPK) [[slides]](/files/LPK.pdf) [[poster]](/files/LPK_poster.pdf) [[video]](https://nips.cc/virtual/2023/poster/72664)<br>
 **Yilan Chen**, Wei Huang, Hao Wang, Charlotte Loh, Akash Srivastava, Lam M. Nguyen, Tsui-Wei Weng.<br>
