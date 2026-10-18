@@ -31,6 +31,7 @@ I am a final-year Ph.D. candidate in [Computer Science and Engineering Departmen
 <!-- I also work closely with Prof. [Taiji Suzuki](https://ibis.t.u-tokyo.ac.jp/suzuki/) at University of Tokyo. -->
 <!-- I'm fortunate to be advised by Prof. [Tsui-Wei (Lily) Weng](https://lilywenglab.github.io/).  -->
 I received my M.S. degree from UCSD and B.E. degree from [Xi'an Jiaotong University](http://en.xjtu.edu.cn/). 
+During my Ph.D., I haved interned at AWS Agentic AI, Google Research, and RIKEN AIP.
 <!-- Here is my [CV](/files/CV_Yilan_Chen.pdf).  -->
 
 <nav class="profile-links" aria-label="Profile links">
@@ -160,7 +161,7 @@ Xu Cheng, Zhefan Rao<sup>2</sup>, **Yilan Chen**<sup>2</sup>, Quanshi Zhang.<br>
 </header>
 <p>Applied Scientist Intern · Santa Clara, USA.</p>
 
-Hosts: [Vijay Lingam](https://www.amazon.science/author/vijay-lingam)
+Hosts: [Vijay Lingam](https://www.linkedin.com/in/vijaylingam)
 
 <p class="experience-topic">LLM Post-training: Reinforcement Learning and Distillation</p>
 </article>
