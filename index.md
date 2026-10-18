@@ -42,10 +42,9 @@ I received my M.S. degree from UCSD and B.E. degree from [Xi'an Jiaotong Univers
 
 <!-- My research aims to bridge the gap between theory and applications of machine learning by establishing theoretical foundations for modern deep learning models and developing principled algorithms for real-world applications. -->
 
-My current research interests include
-- Large language models and foundation models
-- Deep learning theory
-- Principled algorithms for real-world applications
+I develop algorithms for **LLM post-training**, focusing on **reinforcement learning and on-policy distillation** for reasoning models and coding agents. My research combines algorithm design and theoretical analysis with distributed LLM training and empirical evaluation. Recent work includes Reward-Aligned Distillation and agent self-distillation using privileged information.
+
+My broader research spans machine learning theory, including transformer in-context learning, provable dataset distillation, neural-network generalization, and connections between neural networks and kernel methods.
 
 Feel free to drop me an email if you would like to collaborate or have a discussion!
 <!-- - Reinforcement learning theory -->
