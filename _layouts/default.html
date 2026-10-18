@@ -1,52 +1,37 @@
 <!DOCTYPE html>
-<html lang="{{ site.lang | default: "en-US" }}">
+<html lang="{{ site.lang | default: 'en-US' }}">
   <head>
-    <meta charset='utf-8'>
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
     {% include head-custom.html %}
-
-{% seo %}
+    {% seo %}
   </head>
 
-  <body>
-
-    <header>
-      <div class="container">
-        <a id="a-title" href="{{ '/' | relative_url }}">
-          <h1>{{ site.title | default: site.github.repository_name }}</h1>
-        </a>
-        <h2>{{ site.description | default: site.github.project_tagline }}</h2>
-
-        <section id="downloads">
-          {% if site.show_downloads %}
-            <a href="{{ site.github.zip_url }}" class="btn">Download as .zip</a>
-            <a href="{{ site.github.tar_url }}" class="btn">Download as .tar.gz</a>
+  <body id="top">
+    <a class="skip-link" href="#main_content">Skip to content</a>
+    <div class="page-shell">
+      <header class="site-header">
+        <nav class="site-nav" aria-label="Main navigation">
+          {% if page.home %}
+            {% assign section_prefix = '' %}
+          {% else %}
+            {% assign section_prefix = '/' | relative_url %}
+            <a class="site-name" href="{{ '/' | relative_url }}">{{ site.title }}</a>
           {% endif %}
-          <!-- <a href="{{ site.github.repository_url }}" class="btn btn-github"><span class="icon"></span>View on GitHub</a> -->
-          <!-- <a href="{{ https://chenyilan.net/files/CV_Yilan_Chen.pdf }}" class="btn"><span class="icon"></span>Curriculum Vitae</a> -->
-          <!-- <a href="https://chenyilan.net/files/CV_Yilan_Chen.pdf" class="btn">Curriculum Vitae</a> -->
-          <!-- <a href="https://scholar.google.com/citations?user=6wmzpRIAAAAJ&hl=zh-CN" class="btn"> Google Scholar</a> -->
-        </section>
-      </div>
-    </header>
-
-    <div class="container">
-      <section id="main_content">
+          <a href="{{ section_prefix }}#research-interests">Research</a>
+          <a href="{{ section_prefix }}#publications">Publications</a>
+          <a href="{{ section_prefix }}#experience">Experience</a>
+          <a href="{{ section_prefix }}#contact">Contact</a>
+        </nav>
+      </header>
+      <main id="main_content" class="content">
         {{ content }}
-      </section>
+      </main>
+      <footer class="site-footer">
+        <span>{{ site.title }}</span>
+        <a href="#top">Back to top</a>
+      </footer>
     </div>
-
-
-    <!-- Map Widget -->
-    <!-- <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=P0lygEgXaDAQ3zBBeWrxwplskZHYhd1lYCFvUk6EjVY"></script> -->
-    <!-- <div class="small_container">
-      <section id="Widget">
-        <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=P0lygEgXaDAQ3zBBeWrxwplskZHYhd1lYCFvUk6EjVY&cl=ffffff&w=a"></script>    
-      </section>
-    </div> -->
-    
   </body>
-
 </html>

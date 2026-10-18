@@ -1,0 +1,143 @@
+<style>
+  #yilan-light-options .site-preview {
+    --site-accent: #245e9b;
+    --site-ink: #243042;
+    --site-muted: #566477;
+    --site-rule: #dce3eb;
+    box-sizing: border-box;
+    min-height: 660px;
+    padding: 40px;
+    color: var(--site-ink);
+    background: #ffffff;
+    font: 400 15px/1.65 -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+    color-scheme: light;
+  }
+  #yilan-light-options .site-preview * { box-sizing: border-box; }
+  #yilan-light-options .site-preview h1,
+  #yilan-light-options .site-preview h2,
+  #yilan-light-options .site-preview h3,
+  #yilan-light-options .site-preview p { margin: 0; }
+  #yilan-light-options .site-preview h1 { font-size: 34px; font-weight: 500; line-height: 1.2; letter-spacing: -1px; }
+  #yilan-light-options .site-preview h2 { font-size: 20px; font-weight: 500; margin: 26px 0 10px; }
+  #yilan-light-options .site-preview h3 { font-size: 15px; font-weight: 500; margin: 0 0 8px; }
+  #yilan-light-options .site-preview p + p { margin-top: 10px; }
+  #yilan-light-options .site-preview a { color: var(--site-accent); text-decoration: none; }
+  #yilan-light-options .site-preview a:hover { text-decoration: underline; }
+  #yilan-light-options .site-preview a:focus-visible { outline: 2px solid var(--site-accent); outline-offset: 4px; }
+  #yilan-light-options .meta { color: var(--site-muted); font-size: 13px; }
+  #yilan-light-options .profile-links { display: flex; flex-wrap: wrap; gap: 8px 20px; margin: 12px 0 22px; }
+  #yilan-light-options .site-nav { display: flex; flex-wrap: wrap; gap: 8px 20px; padding-bottom: 16px; margin-bottom: 24px; border-bottom: 1px solid var(--site-rule); }
+  #yilan-light-options .paper { padding: 12px 0; }
+  #yilan-light-options .paper + .paper { border-top: 1px solid var(--site-rule); }
+  #yilan-light-options .paper-title { font-weight: 500; }
+  #yilan-light-options .job-note { padding-left: 14px; margin-top: 18px; border-left: 3px solid var(--site-accent); }
+  #yilan-light-options .paper-meta { font-size: 13px; color: var(--site-muted); }
+  #yilan-light-options .academic h2 { color: #173653; border-bottom: 1px solid var(--site-rule); padding-bottom: 7px; }
+  #yilan-light-options .editorial { --site-accent: #27695f; --site-ink: #35352e; --site-muted: #68685d; --site-rule: #dcd8c9; background: #faf7ef; }
+  #yilan-light-options .editorial .editorial-header { text-align: center; padding: 4px 0 24px; border-bottom: 1px solid var(--site-rule); }
+  #yilan-light-options .editorial h1 { font: 400 40px/1.2 Georgia, serif; }
+  #yilan-light-options .editorial h2 { font-family: Georgia, serif; font-size: 24px; }
+  #yilan-light-options .editorial .profile-links { justify-content: center; margin-bottom: 0; }
+  #yilan-light-options .editorial .job-note { font-family: Georgia, serif; font-style: italic; }
+  #yilan-light-options .sidebar { --site-accent: #276a86; display: grid; grid-template-columns: 170px minmax(0, 1fr); gap: 32px; }
+  #yilan-light-options .sidebar aside { border-right: 1px solid var(--site-rule); padding-right: 20px; }
+  #yilan-light-options .sidebar h1 { font-size: 30px; }
+  #yilan-light-options .sidebar .profile-links { flex-direction: column; gap: 6px; }
+  #yilan-light-options .sidebar .site-nav { flex-direction: column; border: 0; margin: 28px 0 0; }
+  #yilan-light-options .sidebar main h2:first-child { margin-top: 0; }
+  #yilan-light-options .technical { --site-accent: #2468a5; --site-ink: #26323d; --site-muted: #586877; --site-rule: #d5dfe7; background: #f3f6f8; font-family: ui-monospace, "SFMono-Regular", Menlo, monospace; font-size: 14px; }
+  #yilan-light-options .technical .technical-header { padding-bottom: 22px; border-bottom: 1px solid var(--site-rule); }
+  #yilan-light-options .technical h1 { font-family: inherit; font-size: 30px; }
+  #yilan-light-options .technical .prefix { color: var(--site-accent); }
+  #yilan-light-options .technical h2 { font-size: 18px; }
+  #yilan-light-options .technical .paper { border: 0; padding-left: 15px; border-left: 2px solid var(--site-rule); margin-top: 12px; }
+  @media (max-width: 540px) {
+    #yilan-light-options .site-preview { padding: 26px 22px; min-height: 960px; }
+    #yilan-light-options .sidebar { grid-template-columns: 1fr; gap: 24px; }
+    #yilan-light-options .sidebar aside { border-right: 0; border-bottom: 1px solid var(--site-rule); padding: 0 0 20px; }
+    #yilan-light-options .sidebar .profile-links { flex-direction: row; }
+    #yilan-light-options .sidebar .site-nav { flex-direction: row; margin-top: 14px; padding-bottom: 0; }
+  }
+</style>
+
+<div id="yilan-light-options" class="viz-carousel" aria-label="Light styles for Yilan Chen’s homepage">
+  <section data-variant="Clean Academic" aria-label="Clean Academic design">
+    <div class="site-preview academic" aria-label="Clean Academic homepage">
+      <header>
+        <h1>Yilan Chen</h1>
+        <p class="meta">Ph.D. candidate · UC San Diego</p>
+        <div class="profile-links"><a href="https://scholar.google.com/citations?user=6wmzpRIAAAAJ&amp;hl=en">Google Scholar</a><a href="https://www.linkedin.com/in/yilan-chen-79285a122/">LinkedIn</a></div>
+        <nav class="site-nav" aria-label="Academic preview navigation"><a href="#academic-research">Research</a><a href="#academic-publications">Publications</a></nav>
+      </header>
+      <main>
+        <h2 id="academic-research">Research</h2>
+        <p>I develop algorithms for LLM post-training, focusing on reinforcement learning and on-policy distillation for reasoning models and coding agents.</p>
+        <p class="job-note">I’m looking for full-time Research Scientist, Research Engineer, or Member of Technical Staff roles.</p>
+        <h2 id="academic-publications">Publications</h2>
+        <h3>LLM Post-training &amp; Agents</h3>
+        <article class="paper"><a class="paper-title" href="https://arxiv.org/pdf/2610.14572">Reward-Aligned Distillation.</a><p class="paper-meta">Yilan Chen, Zian Su, Manish Prajapat, et al.</p><p class="paper-meta">Under review · NeurIPS 2026 PretoPost Workshop</p></article>
+        <article class="paper"><a class="paper-title" href="https://openreview.net/pdf?id=R1peldcnUL">PINT: Privileged Information Internalization for Agentic RL.</a><p class="paper-meta">Zian Su, Yilan Chen, Manish Prajapat, et al.</p><p class="paper-meta">Under review · NeurIPS 2026 PretoPost Workshop</p></article>
+      </main>
+    </div>
+  </section>
+
+  <section data-variant="Warm Editorial" aria-label="Warm Editorial design" hidden>
+    <div class="site-preview editorial" aria-label="Warm Editorial homepage">
+      <header class="editorial-header"><h1>Yilan Chen</h1><p class="meta">Machine learning researcher · UC San Diego</p><div class="profile-links"><a href="https://scholar.google.com/citations?user=6wmzpRIAAAAJ&amp;hl=en">Google Scholar</a><a href="https://www.linkedin.com/in/yilan-chen-79285a122/">LinkedIn</a></div></header>
+      <main>
+        <h2>Learning, reasoning, and agents</h2>
+        <p>I develop algorithms for LLM post-training, focusing on reinforcement learning and on-policy distillation for reasoning models and coding agents.</p>
+        <p class="job-note">Open to full-time Research Scientist, Research Engineer, and Member of Technical Staff opportunities.</p>
+        <h2>Recent publications</h2>
+        <article class="paper"><p class="meta">2026 · LLM post-training</p><a class="paper-title" href="https://arxiv.org/pdf/2610.14572">Reward-Aligned Distillation.</a><p class="paper-meta">Yilan Chen, Zian Su, Manish Prajapat, et al.</p><p class="paper-meta">Under review · NeurIPS 2026 PretoPost Workshop</p></article>
+        <article class="paper"><p class="meta">2026 · Agentic reinforcement learning</p><a class="paper-title" href="https://openreview.net/pdf?id=R1peldcnUL">PINT: Privileged Information Internalization for Agentic RL.</a><p class="paper-meta">Zian Su, Yilan Chen, Manish Prajapat, et al.</p><p class="paper-meta">Under review · NeurIPS 2026 PretoPost Workshop</p></article>
+      </main>
+    </div>
+  </section>
+
+  <section data-variant="Minimal Sidebar" aria-label="Minimal Sidebar design" hidden>
+    <div class="site-preview sidebar" aria-label="Minimal Sidebar homepage">
+      <aside>
+        <h1>Yilan<br>Chen</h1><p class="meta">Ph.D. candidate<br>UC San Diego</p>
+        <div class="profile-links"><a href="https://scholar.google.com/citations?user=6wmzpRIAAAAJ&amp;hl=en">Google Scholar</a><a href="https://www.linkedin.com/in/yilan-chen-79285a122/">LinkedIn</a></div>
+        <nav class="site-nav" aria-label="Sidebar preview navigation"><a href="#sidebar-research">Research</a><a href="#sidebar-publications">Publications</a></nav>
+      </aside>
+      <main>
+        <h2 id="sidebar-research">Research</h2><p>I develop algorithms for LLM post-training, focusing on reinforcement learning and on-policy distillation for reasoning models and coding agents.</p>
+        <p class="job-note">Open to full-time research roles in LLM training, reinforcement learning, and AI agents.</p>
+        <h2 id="sidebar-publications">Publications</h2><h3>LLM Post-training &amp; Agents</h3>
+        <article class="paper"><a class="paper-title" href="https://arxiv.org/pdf/2610.14572">Reward-Aligned Distillation.</a><p class="paper-meta">Yilan Chen, Zian Su, Manish Prajapat, et al.</p><p class="paper-meta">Under review · NeurIPS 2026 PretoPost Workshop</p></article>
+        <article class="paper"><a class="paper-title" href="https://openreview.net/pdf?id=R1peldcnUL">PINT: Privileged Information Internalization for Agentic RL.</a><p class="paper-meta">Zian Su, Yilan Chen, Manish Prajapat, et al.</p><p class="paper-meta">Under review · NeurIPS 2026 PretoPost Workshop</p></article>
+      </main>
+    </div>
+  </section>
+
+  <section data-variant="Light Technical" aria-label="Light Technical design" hidden>
+    <div class="site-preview technical" aria-label="Light Technical homepage">
+      <header class="technical-header"><h1><span class="prefix">./</span> Yilan Chen</h1><p class="meta">LLM post-training · Reinforcement learning · Agents</p><div class="profile-links"><a href="https://scholar.google.com/citations?user=6wmzpRIAAAAJ&amp;hl=en">Google Scholar</a><a href="https://www.linkedin.com/in/yilan-chen-79285a122/">LinkedIn</a></div></header>
+      <main>
+        <h2>Research</h2><p>I develop algorithms for LLM post-training, focusing on reinforcement learning and on-policy distillation for reasoning models and coding agents.</p>
+        <p class="job-note">Open to full-time research roles.</p>
+        <h2>LLM Post-training &amp; Agents</h2>
+        <article class="paper"><a class="paper-title" href="https://arxiv.org/pdf/2610.14572">Reward-Aligned Distillation.</a><p class="paper-meta">Yilan Chen, Zian Su, Manish Prajapat, et al.</p><p class="paper-meta">Under review · NeurIPS 2026 PretoPost Workshop</p></article>
+        <article class="paper"><a class="paper-title" href="https://openreview.net/pdf?id=R1peldcnUL">PINT: Privileged Information Internalization for Agentic RL.</a><p class="paper-meta">Zian Su, Yilan Chen, Manish Prajapat, et al.</p><p class="paper-meta">Under review · NeurIPS 2026 PretoPost Workshop</p></article>
+      </main>
+    </div>
+  </section>
+</div>
+
+<script>
+  (() => {
+    const root = document.getElementById('yilan-light-options');
+    if (globalThis.Tweak) {
+      root.querySelectorAll('.site-preview').forEach((preview) => {
+        const state = { accent: getComputedStyle(preview).getPropertyValue('--site-accent').trim() };
+        const controls = new Tweak({
+          container: preview,
+          onChange: () => preview.style.setProperty('--site-accent', state.accent)
+        });
+        controls.addColorPicker(state, 'accent', { label: 'Link color', reference: '--site-accent' });
+      });
+    }
+  })();
+</script>
