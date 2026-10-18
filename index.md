@@ -126,14 +126,17 @@ IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2020).
 ## Experience
 AWS Agentic AI, Santa Clara, USA.<br>
 - Applied Scientist Intern, Jun. - Sep. 2026
+- Hosts: [Vijay Lingam](https://www.amazon.science/author/vijay-lingam)
 - LLM Post-training: Reinforcement Learning and Distillation 
 
 Google Research, New York, USA.<br>
 - Student researcher, Jun. - Sep. 2025
+- Hosts: [Ankit Singh Rawat](https://ankitsrawat.github.io/home/), [Aditya Krishna Menon](https://akmenon.github.io/)
 - On-Policy Distillation for LLM Reasoning
 
 RIKEN AIP, Tokyo, Japan.<br>
 - Research intern, Jun. - Sep. 2024
+- Advisor: Prof. [Taiji Suzuki](https://ibis.t.u-tokyo.ac.jp/suzuki/)
 - Theory of neural networks and language models.
 
 <!-- ## Notes
