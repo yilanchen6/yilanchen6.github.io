@@ -16,7 +16,7 @@ https://david-abel.github.io/index.html -->
 </figure> -->
 
 <img src="/images/chenyilan3.jpg" align="left" width="200px" style="margin-right:20px" alt="Yilan's picture" title="Yilan."/>
-I am a Ph.D. candidate in [Computer Science and Engineering Department](https://cse.ucsd.edu/) at University of California San Diego (UCSD) working with Prof. [Arya Mazumdar](https://mazumdar.ucsd.edu/index.html) and Prof. [Yian Ma](https://sites.google.com/view/yianma/home). 
+I am a final-year Ph.D. candidate in [Computer Science and Engineering Department](https://cse.ucsd.edu/) at University of California San Diego (UCSD) working with Prof. [Arya Mazumdar](https://mazumdar.ucsd.edu/index.html). 
 <!-- I also work closely with Prof. [Taiji Suzuki](https://ibis.t.u-tokyo.ac.jp/suzuki/) at University of Tokyo. -->
 <!-- I'm fortunate to be advised by Prof. [Tsui-Wei (Lily) Weng](https://lilywenglab.github.io/).  -->
 I received my M.S. degree from UCSD and B.E. degree from [Xi'an Jiaotong University](http://en.xjtu.edu.cn/). 
@@ -26,7 +26,7 @@ I received my M.S. degree from UCSD and B.E. degree from [Xi'an Jiaotong Univers
 <!-- [[Twitter]](https://twitter.com/yilanchen06)
 [[Zhihu]](https://www.zhihu.com/people/yilan-24-8/posts) -->
 
-
+**I’m looking for full-time Research Scientist, Research Engineer, or MTS roles in LLM training, reinforcement learning, and AI agents. If your team is hiring, I’d love to connect!**
 
 <!-- I am interning at [deep learning theory team](https://aip.riken.jp/labs/generic_tech/deep_learn_theory/) in RIKEN AIP advised by Prof. [Taiji Suzuki](https://ibis.t.u-tokyo.ac.jp/suzuki/) this summer. -->
 
@@ -47,7 +47,7 @@ My current research interests include
 - Deep learning theory
 - Principled algorithms for real-world applications
 
-Feel free to drop me an email if you would like to collabrate or have a discussion!
+Feel free to drop me an email if you would like to collaborate or have a discussion!
 <!-- - Reinforcement learning theory -->
 
 
@@ -56,17 +56,21 @@ Feel free to drop me an email if you would like to collabrate or have a discussi
 ## Publications
 
 ### LLM Post-training & Agents
-- [Reward-Aligned Distillation.](https://arxiv.org/pdf/2610.14572) [[project]](https://reward-aligned-distillation.github.io/)<br>
+- [Reward-Aligned Distillation.](https://arxiv.org/pdf/2610.14572) [[project page]](https://reward-aligned-distillation.github.io/)<br>
 **Yilan Chen**, Zian Su, Manish Prajapat, Dingmin Wang, Rein Houthooft, Rui Song, Vijay Lingam.<br>
-In submission; also accepted at NeurIPS 2026 PretoPost Workshop.
+Under review; also accepted at NeurIPS 2026 PretoPost Workshop.
 
 - [PINT: Privileged Information Internalization for Agentic RL.](https://openreview.net/pdf?id=R1peldcnUL)<br>
 Zian Su, **Yilan Chen**, Manish Prajapat, Rein Houthooft, Rui Song, Vijay Lingam.<br>
-Under review at ACL 2027; also accepted at NeurIPS 2026 PretoPost Workshop.
+Under review; also accepted at NeurIPS 2026 PretoPost Workshop.
 
 - [Token Utility for On-Policy Distillation via Local Trust-Region Optimization.](https://arxiv.org/pdf/2610.18883)<br>
 Narayanan Sadagopan, **Yilan Chen**, Vijay Lingam.<br>
-Under review at ICLR 2027; also accepted at NeurIPS 2026 PretoPost Workshop.
+Under review; also accepted at NeurIPS 2026 PretoPost Workshop.
+
+- [BridgeSim: Unveiling the OL-CL Gap in End-to-End Autonomous Driving.](https://arxiv.org/pdf/2604.10856)<br>
+Seth Z. Zhao<sup>1</sup>, Luobin Wang<sup>1</sup>, Hongwei Ruan, Yuxin Bao, **Yilan Chen**, et al.<br>
+Conference on Robot Learning (CoRL 2026).
 
 - [Cross-Task Linearity Emerges in the Pretraining-Finetuning Paradigm.](https://arxiv.org/pdf/2402.03660.pdf) [[code]](https://github.com/zzp1012/Cross-Task-Linearity) <br>
 Zhanpeng Zhou<sup>1</sup>, Zijun Chen<sup>1</sup>, **Yilan Chen**, Bo Zhang, Junchi Yan.<br>
@@ -100,7 +104,7 @@ Thirty-fifth Conference on Neural Information Processing Systems (NeurIPS 2021).
 
 
 ### Interpretable Machine Learning
-- [The Importance of Prompt Tuning for Automated Neuron Explanations.](https://arxiv.org/pdf/2310.06200.pdf)<br>
+- [The Importance of Prompt Tuning for Automated Neuron Explanations.](https://arxiv.org/pdf/2310.06200.pdf) [[code]](https://github.com/Trustworthy-ML-Lab/Efficient-LLM-automated-interpretability)<br>
 Justin Lee<sup>1</sup>, Tuomas Oikarinen<sup>1</sup>, Arjun Chatha, Keng-Chi Chang, **Yilan Chen**, Tsui-Wei Weng.<br>
 NeurIPS 2023 Workshop on Attributing Model Behavior at Scale.
 
@@ -191,7 +195,8 @@ Analyzing Generalization of Neural Networks through Loss Path Kernels [[slides]]
 
 ## Professional Service
 - Conference Reviewer: ICML, NeurIPS, ICLR
-<!-- - Journal Reviewer: Journal of Optimization Theory and Applications (JOTA) -->
+- Area Chair: ICLR 2026 DeLTa Workshop
+- Journal Reviewer: Journal of Optimization Theory and Applications (JOTA)
 <!-- - Program Committee: AAAI 2023 Workshop MLmDS -->
 
 
