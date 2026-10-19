@@ -40,6 +40,10 @@ During my Ph.D., I haved interned at AWS Agentic AI, Google Research, and RIKEN 
     {% include icons/google-scholar.svg %}
     <span>Google Scholar</span>
   </a>
+  <a href="https://github.com/yilanchen6">
+    {% include icons/github.svg %}
+    <span>GitHub</span>
+  </a>
   <a href="https://www.linkedin.com/in/yilan-chen-79285a122/">
     {% include icons/linkedin.svg %}
     <span>LinkedIn</span>
