@@ -6,6 +6,9 @@
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
     {% include head-custom.html %}
     {% seo %}
+    {% if page.home %}
+      <script src="{{ '/assets/js/section-navigation.js' | relative_url }}" defer></script>
+    {% endif %}
   </head>
 
   <body id="top">
@@ -13,16 +16,22 @@
     <div class="page-shell">
       <header class="site-header">
         <nav class="site-nav" aria-label="Main navigation">
+          <a class="site-name" href="{{ '/' | relative_url }}">{{ site.title }}</a>
           {% if page.home %}
             {% assign section_prefix = '' %}
           {% else %}
             {% assign section_prefix = '/' | relative_url %}
-            <a class="site-name" href="{{ '/' | relative_url }}">{{ site.title }}</a>
           {% endif %}
+          <div class="nav-sections">
+          <a href="{{ section_prefix }}#top">About</a>
           <a href="{{ section_prefix }}#research-interests">Research</a>
           <a href="{{ section_prefix }}#publications">Publications</a>
           <a href="{{ section_prefix }}#experience">Experience</a>
-          <a href="{{ section_prefix }}#contact">Contact</a>
+          <a href="{{ section_prefix }}#education">Education</a>
+          <a class="nav-secondary" href="{{ section_prefix }}#talks">Talks</a>
+          <a class="nav-secondary" href="{{ section_prefix }}#teaching">Teaching</a>
+          <a class="nav-secondary" href="{{ section_prefix }}#professional-service">Service</a>
+          </div>
         </nav>
       </header>
       <main id="main_content" class="content">

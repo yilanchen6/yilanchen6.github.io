@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 170" role="img" aria-labelledby="title desc">
+  <title id="title">Cross-task linearity in learned features</title>
+  <desc id="desc">Models fine-tuned on different tasks from the same pretrained checkpoint exhibit cross-task linearity: features of interpolated model weights approximately match interpolated endpoint features, at each layer. The two branches show mixing weights before feature extraction, and mixing features after extraction. This is an empirical approximation, not an exact identity.</desc>
+  <defs>
+    <marker id="arrow" viewBox="0 0 8 8" refX="6.5" refY="4" markerWidth="4" markerHeight="4" orient="auto"><path d="M1 1L7 4L1 7" fill="none" stroke="#245d7e" stroke-width="1.5"/></marker>
+  </defs>
+  <g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif" font-size="16" text-anchor="middle">
+    <text x="180" y="18" fill="#1e2b32" font-weight="600">Same pretrained checkpoint</text>
+    <text x="180" y="37" fill="#59666d">Fine-tune on different tasks</text>
+    <path d="M180 44V50H84V59 M180 50H276V59" fill="none" stroke="#245d7e" stroke-width="1.4" marker-end="url(#arrow)"/>
+    <rect x="13" y="62" width="142" height="31" rx="7" fill="#f3f5f4" stroke="#cbd5d9"/>
+    <text x="84" y="82" fill="#245d7e" font-weight="600">Mix weights</text>
+    <rect x="205" y="62" width="142" height="31" rx="7" fill="#f3f5f4" stroke="#cbd5d9"/>
+    <text x="276" y="82" fill="#245d7e" font-weight="600">Extract features</text>
+    <path d="M84 95V111 M276 95V111" fill="none" stroke="#245d7e" stroke-width="1.4" marker-end="url(#arrow)"/>
+    <rect x="13" y="115" width="142" height="43" rx="7" fill="#f3f5f4"/>
+    <text x="84" y="132" fill="#1e2b32">Features of</text>
+    <text x="84" y="150" fill="#1e2b32">mixed model</text>
+    <text x="180" y="145" fill="#245d7e" font-size="28">≈</text>
+    <rect x="205" y="115" width="142" height="43" rx="7" fill="#f3f5f4"/>
+    <text x="276" y="132" fill="#1e2b32">Mix of model</text>
+    <text x="276" y="150" fill="#1e2b32">features</text>
+  </g>
+</svg>

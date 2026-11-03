@@ -11,31 +11,38 @@ https://david-abel.github.io/index.html -->
 
 <section class="profile" aria-labelledby="profile-name" markdown="1">
 
-<div class="profile-portrait">
-  <img class="profile-photo" src="/images/chenyilan3.jpg" width="176" height="176" alt="Yilan Chen">
-</div>
-
-<div class="profile-bio" markdown="1">
+<div class="profile-heading" markdown="1">
 
 # Yilan Chen
 {: #profile-name}
 
 <p class="profile-subtitle">Ph.D. candidate · UC San Diego</p>
 
+</div>
+<div class="profile-bio" markdown="1">
+
+<!-- My research aims to build AI systems that **learn efficiently and generalize reliably**.
+{: .profile-goal} -->
+
 <!-- <figure>
 <img src="/images/chenyilan.jpg" align="left" width="200px" style="margin-right:20px" alt="Yilan's picture" title="2019 at Beijing."/>
 <figcaption>2019 at Beijing.</figcaption>
 </figure> -->
 
-I am a final-year Ph.D. candidate in [Computer Science and Engineering Department](https://cse.ucsd.edu/) at University of California San Diego (UCSD) working with Prof. [Arya Mazumdar](https://mazumdar.ucsd.edu/index.html). 
-<!-- I also work closely with Prof. [Taiji Suzuki](https://ibis.t.u-tokyo.ac.jp/suzuki/) at University of Tokyo. -->
-<!-- I'm fortunate to be advised by Prof. [Tsui-Wei (Lily) Weng](https://lilywenglab.github.io/).  -->
-I received my M.S. degree from UCSD and B.E. degree from [Xi'an Jiaotong University](http://en.xjtu.edu.cn/). 
-During my Ph.D., I haved interned at AWS Agentic AI, Google Research, and RIKEN AIP.
-<!-- Here is my [CV](/files/CV_Yilan_Chen.pdf).  -->
+I am a final-year Ph.D. student in the [Department of Computer Science and Engineering](https://cse.ucsd.edu/) at the University of California San Diego (UCSD), working with Prof. [Arya Mazumdar](https://mazumdar.ucsd.edu/index.html).
+My research aims to build AI systems that **learn efficiently and generalize reliably**.
+During my Ph.D., I have interned at AWS Agentic AI, Google Research, and RIKEN AIP.
 
 <nav class="profile-links" aria-label="Profile links">
   <!-- Icon sources and licenses: {% include icons/LICENSE.txt %} -->
+  <a href="mailto:yic031@ucsd.edu">
+    {% include icons/email.svg %}
+    <span>Email</span>
+  </a>
+  <!-- <a href="/files/CV_Yilan_Chen.pdf">
+    {% include icons/cv.svg %}
+    <span>CV</span>
+  </a> -->
   <a href="https://scholar.google.com/citations?user=6wmzpRIAAAAJ&amp;hl=en">
     {% include icons/google-scholar.svg %}
     <span>Google Scholar</span>
@@ -48,15 +55,24 @@ During my Ph.D., I haved interned at AWS Agentic AI, Google Research, and RIKEN 
     {% include icons/linkedin.svg %}
     <span>LinkedIn</span>
   </a>
+  <a href="https://x.com/yilanchen06">
+    {% include icons/x.svg %}
+    <span>X</span>
+  </a>
 </nav>
 
+</div>
+<div class="profile-portrait">
+  <img class="profile-photo" src="/images/chenyilan3.jpg" width="192" height="192" alt="Yilan Chen">
 </div>
 </section>
 <!-- [[Twitter]](https://twitter.com/yilanchen06)
 [[Zhihu]](https://www.zhihu.com/people/yilan-24-8/posts) -->
 
-**I’m looking for full-time Research Scientist, Research Engineer, or Member of Technical Staff roles in LLM training, reinforcement learning, and AI agents. If your team is hiring, I’d love to connect!**
-{: .hiring-notice}
+<aside class="hiring-notice" aria-label="Career opportunities">
+  <span class="availability-label">Open to full-time roles</span>
+  <p>Research Scientist, Research Engineer, or Member of Technical Staff in LLM training, reinforcement learning, and AI agents. <a href="mailto:yic031@ucsd.edu">Let’s connect <span aria-hidden="true">↗</span></a></p>
+</aside>
 
 <!-- I am interning at [deep learning theory team](https://aip.riken.jp/labs/generic_tech/deep_learn_theory/) in RIKEN AIP advised by Prof. [Taiji Suzuki](https://ibis.t.u-tokyo.ac.jp/suzuki/) this summer. -->
 
@@ -64,89 +80,86 @@ During my Ph.D., I haved interned at AWS Agentic AI, Google Research, and RIKEN 
 
 
 
-## Research Interests
+<section class="research-overview" aria-labelledby="research-interests" markdown="1">
 
+## Research
+{: #research-interests}
 
-<!-- My current research interests are theoretical machine learning and its applications, with a focus on deep learning theory (optimization, generalization, and robustness). My research goal is to establish theoretical foundations for modern deep learning models and develop principled algorithms for real-world applications. -->
+I focus on **LLM post-training**, especially reinforcement learning and on-policy distillation for reasoning models and agents. My broader research spans **learning theory, generalization, knowledge transfer, and interpretability**.
+{: .research-intro}
 
-<!-- My research aims to bridge the gap between theory and applications of machine learning by establishing theoretical foundations for modern deep learning models and developing principled algorithms for real-world applications. -->
+<article class="research-theme" aria-labelledby="research-post-training" markdown="1">
 
-I develop algorithms for **LLM post-training**, focusing on **reinforcement learning and on-policy distillation** for reasoning models and coding agents. My research combines algorithm design and theoretical analysis with distributed LLM training and empirical evaluation. Recent work includes Reward-Aligned Distillation and agent self-distillation using privileged information.
+<figure class="research-visual">
+  <img src="/assets/images/research/post-training.svg" width="360" height="170" loading="lazy" alt="Teacher supervision and reward feedback guide student learning.">
+</figure>
 
-My broader research spans machine learning theory, including transformer in-context learning, provable dataset distillation, neural-network generalization, and connections between neural networks and kernel methods.
+<div class="research-description" markdown="1">
 
-Feel free to drop me an email if you would like to collaborate or have a discussion!
-<!-- - Reinforcement learning theory -->
+### LLM Post-training & Agent Learning
+{: #research-post-training}
 
+I develop reinforcement learning and on-policy distillation methods for reasoning models and interactive agents. My work connects teacher supervision to reward improvement and RL advantage estimation, derives principled token-level learning signals, and uses privileged training information to improve agent learning.
 
+<div class="research-papers">
+  <a href="https://arxiv.org/abs/2610.14572" title="NeurIPS 2026 PretoPost Workshop">Reward-Aligned Distillation (Preprint 2026)</a>
+  <a href="https://arxiv.org/abs/2610.18883" title="NeurIPS 2026 PretoPost Workshop">Token Utility (Preprint 2026)</a>
+  <a href="https://openreview.net/pdf?id=R1peldcnUL" title="NeurIPS 2026 PretoPost Workshop">PINT (Preprint 2026)</a>
+</div>
 
+</div>
+</article>
 
-<section class="publications" aria-labelledby="publications" markdown="1">
+<article class="research-theme" aria-labelledby="research-learning-theory" markdown="1">
 
-## Publications
+<figure class="research-visual">
+  <img src="/assets/images/research/learning-theory.svg" width="360" height="170" loading="lazy" alt="Training dynamics and data structure inform generalization analysis and dataset distillation.">
+</figure>
 
-### LLM Post-training & Agents
-- [Reward-Aligned Distillation.](https://arxiv.org/pdf/2610.14572) [[project page]](https://reward-aligned-distillation.github.io/)<br>
-**Yilan Chen**, Zian Su, Manish Prajapat, Dingmin Wang, Rein Houthooft, Rui Song, Vijay Lingam.<br>
-<span class="publication-venue">Under review; also accepted at NeurIPS 2026 PretoPost Workshop.</span>
+<div class="research-description" markdown="1">
 
-- [PINT: Privileged Information Internalization for Agentic RL.](https://openreview.net/pdf?id=R1peldcnUL)<br>
-Zian Su, **Yilan Chen**, Manish Prajapat, Rein Houthooft, Rui Song, Vijay Lingam.<br>
-<span class="publication-venue">Under review; also accepted at NeurIPS 2026 PretoPost Workshop.</span>
+### Learning Theory & Generalization
+{: #research-learning-theory}
 
-- [Token Utility for On-Policy Distillation via Local Trust-Region Optimization.](https://arxiv.org/pdf/2610.18883)<br>
-Narayanan Sadagopan, **Yilan Chen**, Vijay Lingam.<br>
-<span class="publication-venue">Under review; also accepted at NeurIPS 2026 PretoPost Workshop.</span>
+I study how optimization, data, and model structure shape learning and generalization. My work connects neural-network training trajectories with kernel methods, analyzes transformer in-context learning, and develops provable dataset-distillation algorithms.
 
-- [BridgeSim: Unveiling the OL-CL Gap in End-to-End Autonomous Driving.](https://arxiv.org/pdf/2604.10856)<br>
-Seth Z. Zhao<sup>1</sup>, Luobin Wang<sup>1</sup>, Hongwei Ruan, Yuxin Bao, **Yilan Chen**, et al.<br>
-<span class="publication-venue">Conference on Robot Learning (CoRL 2026).</span>
+<div class="research-papers">
+  <a href="https://arxiv.org/abs/2506.11357">Training Trajectories &amp; Generalization (NeurIPS 2025)</a>
+  <a href="https://openreview.net/pdf?id=WI2VpcBdnd">Dataset Distillation (NeurIPS 2024)</a>
+  <a href="https://openreview.net/pdf?id=8Ba7VJ7xiM">Loss Path Kernels (NeurIPS 2023)</a>
+</div>
 
-- [Cross-Task Linearity Emerges in the Pretraining-Finetuning Paradigm.](https://arxiv.org/pdf/2402.03660.pdf) [[code]](https://github.com/zzp1012/Cross-Task-Linearity) <br>
-Zhanpeng Zhou<sup>1</sup>, Zijun Chen<sup>1</sup>, **Yilan Chen**, Bo Zhang, Junchi Yan.<br>
-<span class="publication-venue">Forty-first International Conference on Machine Learning (ICML 2024).</span>
+</div>
+</article>
 
+<article class="research-theme" aria-labelledby="research-interpretability" markdown="1">
 
-### Machine Learning Theory
-- [Generalization Bound of Gradient Flow through Training Trajectory and Data-dependent Kernel.](https://openreview.net/pdf/af0ea9dcf0fa1cc544beb7e368004a6cec2d049e.pdf)<br>
-**Yilan Chen**, Zhichao Wang, Wei Huang, Andi Han, Taiji Suzuki, Arya Mazumdar.<br>
-<span class="publication-venue">Thirty-Ninth Annual Conference on Neural Information Processing Systems (NeurIPS 2025).</span>
+<figure class="research-visual">
+  <img src="/assets/images/research/knowledge-transfer.svg" width="360" height="170" loading="lazy" alt="Cross-task linearity: for models fine-tuned from the same pretrained checkpoint, interpolating weights yields features approximately matching interpolated model features.">
+</figure>
 
-- [How Does Label Noise Gradient Descent Improve Generalization in the Low SNR Regime？](https://arxiv.org/pdf/2510.17526)<br>
-Wei Huang<sup>1</sup>, Andi Han<sup>1</sup>, Yujin Song, **Yilan Chen**, Denny Wu, Difan Zou, Taiji Suzuki.<br>
-<span class="publication-venue">Thirty-Ninth Annual Conference on Neural Information Processing Systems (NeurIPS 2025).</span>
+<div class="research-description" markdown="1">
 
-- [Provable and Efficient Dataset Distillation for Kernel Ridge Regression.](https://openreview.net/pdf?id=WI2VpcBdnd) [[code]](https://github.com/Trustworthy-ML-Lab/provable-efficient-dataset-distill-KRR) [[project page]](https://lilywenglab.github.io/provable-efficient-dataset-distill-KRR/)<br>
-**Yilan Chen**, Wei Huang, Tsui-Wei Weng.<br>
-<span class="publication-venue">Thirty-eighth Conference on Neural Information Processing Systems (NeurIPS 2024).</span>
+### Interpretability & Knowledge Transfer
+{: #research-interpretability}
 
-- [Analyzing Generalization of Neural Networks through Loss Path Kernels.](https://openreview.net/pdf?id=8Ba7VJ7xiM) [[code]](https://github.com/Trustworthy-ML-Lab/NN-LPK) [[slides]](/files/LPK.pdf) [[poster]](/files/LPK_poster.pdf) [[video]](https://nips.cc/virtual/2023/poster/72664)<br>
-**Yilan Chen**, Wei Huang, Hao Wang, Charlotte Loh, Akash Srivastava, Lam M. Nguyen, Tsui-Wei Weng.<br>
-<span class="publication-venue">Thirty-seventh Conference on Neural Information Processing Systems (NeurIPS 2023).</span>
+I investigate what neural networks represent and how knowledge changes during training and transfer. My work studies feature relationships across fine-tuned models and improves automated explanations of language-model neurons, building on earlier work quantifying concepts learned through distillation.
 
-- [Analyzing Deep PAC-Bayesian Learning with Neural Tangent Kernel: Convergence, Analytic Generalization Bound, and Efficient Hyperparameter Selection.](https://openreview.net/pdf?id=nEX2q5B2RQ)<br>
-Wei Huang<sup>1</sup>, Chunrui Liu<sup>1</sup>, **Yilan Chen**, Richard Yi Da Xu, Miao Zhang, Tsui-Wei Weng.<br>
-<span class="publication-venue">Transactions on Machine Learning Research (TMLR 2023).</span>
+<div class="research-papers">
+  <a href="https://arxiv.org/abs/2402.03660">Cross-Task Linearity (ICML 2024)</a>
+  <a href="https://arxiv.org/abs/2310.06200" title="NeurIPS 2023 Workshop on Attributing Model Behavior at Scale">Automated Neuron Explanations (NeurIPS Workshop 2023)</a>
+  <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9864081" title="Quantifying the Knowledge in a DNN to Explain Knowledge Distillation for Classification">Quantifying Knowledge in a DNN (TPAMI 2023)</a>
+</div>
 
-- [On the Equivalence between Neural Network and Support Vector Machine.](https://arxiv.org/pdf/2111.06063.pdf) [[code]](https://github.com/leslie-CH/equiv-nn-svm)[[slides]](/files/SVM_Slides.pdf)[[poster]](/files/SVM_NeurIPS_2021_poster.pdf)[[video]](https://neurips.cc/virtual/2021/poster/27419)<br>
-**Yilan Chen**, Wei Huang, Lam M. Nguyen, Tsui-Wei Weng.<br>
-<span class="publication-venue">Thirty-fifth Conference on Neural Information Processing Systems (NeurIPS 2021).</span>
-
-
-### Interpretable Machine Learning
-- [The Importance of Prompt Tuning for Automated Neuron Explanations.](https://arxiv.org/pdf/2310.06200.pdf) [[code]](https://github.com/Trustworthy-ML-Lab/Efficient-LLM-automated-interpretability)<br>
-Justin Lee<sup>1</sup>, Tuomas Oikarinen<sup>1</sup>, Arjun Chatha, Keng-Chi Chang, **Yilan Chen**, Tsui-Wei Weng.<br>
-<span class="publication-venue">NeurIPS 2023 Workshop on Attributing Model Behavior at Scale.</span>
-
-- [Quantifying the Knowledge in a DNN to Explain Knowledge Distillation for Classification.](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9864081)<br>
-Quanshi Zhang<sup>1</sup>, Xu Cheng<sup>1</sup>, **Yilan Chen**, Zhefan Rao.<br>
-<span class="publication-venue">IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI 2023).</span>
-
-- [Explaining Knowledge Distillation by Quantifying the Knowledge.](https://arxiv.org/pdf/2003.03622.pdf)<br>
-Xu Cheng, Zhefan Rao<sup>2</sup>, **Yilan Chen**<sup>2</sup>, Quanshi Zhang.<br>
-<span class="publication-venue">IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2020).</span>
+</div>
+</article>
 
 </section>
+
+
+
+
+{% include publications.html %}
 
 
 
@@ -161,11 +174,11 @@ Xu Cheng, Zhefan Rao<sup>2</sup>, **Yilan Chen**<sup>2</sup>, Quanshi Zhang.<br>
 <article class="experience-entry" markdown="1">
 <header class="experience-header">
   <h3>AWS Agentic AI</h3>
-  <p class="experience-date">Jun. - Sep. 2026</p>
+  <p class="experience-date">Jun. – Sep. 2026</p>
 </header>
-<p>Applied Scientist Intern · Santa Clara, USA.</p>
+<p>Applied Scientist Intern · Santa Clara, USA</p>
 
-Hosts: [Vijay Lingam](https://www.linkedin.com/in/vijaylingam)
+Host: [Vijay Lingam](https://www.linkedin.com/in/vijaylingam)
 
 <p class="experience-topic">LLM Post-training: Reinforcement Learning and Distillation</p>
 </article>
@@ -173,9 +186,9 @@ Hosts: [Vijay Lingam](https://www.linkedin.com/in/vijaylingam)
 <article class="experience-entry" markdown="1">
 <header class="experience-header">
   <h3>Google Research</h3>
-  <p class="experience-date">Jun. - Sep. 2025</p>
+  <p class="experience-date">Jun. – Sep. 2025</p>
 </header>
-<p>Student researcher · New York, USA.</p>
+<p>Student Researcher · New York, USA</p>
 
 Hosts: [Ankit Singh Rawat](https://ankitsrawat.github.io/home/), [Aditya Krishna Menon](https://akmenon.github.io/)
 
@@ -185,14 +198,50 @@ Hosts: [Ankit Singh Rawat](https://ankitsrawat.github.io/home/), [Aditya Krishna
 <article class="experience-entry" markdown="1">
 <header class="experience-header">
   <h3>RIKEN AIP</h3>
-  <p class="experience-date">Jun. - Sep. 2024</p>
+  <p class="experience-date">Jun. – Sep. 2024</p>
 </header>
-<p>Research intern · Tokyo, Japan.</p>
+<p>Research Intern · Tokyo, Japan</p>
 
 Advisor: Prof. [Taiji Suzuki](https://ibis.t.u-tokyo.ac.jp/suzuki/)
 
-<p class="experience-topic">Theory of neural networks and language models.</p>
+<p class="experience-topic">Theory of Neural Networks and Language Models</p>
 </article>
+
+<section class="education" aria-labelledby="education" markdown="1">
+
+## Education
+
+<article class="education-entry" markdown="1">
+<header class="education-header">
+  <h3>University of California San Diego</h3>
+  <p class="education-date">Sep. 2022 – Mar. 2027 (expected)</p>
+</header>
+<p>Ph.D. in Computer Science</p>
+
+Advisor: [Arya Mazumdar](https://mazumdar.ucsd.edu/)
+
+</article>
+
+<article class="education-entry" markdown="1">
+<header class="education-header">
+  <h3>University of California San Diego</h3>
+  <p class="education-date">Sep. 2020 – Jun. 2022</p>
+</header>
+<p>M.S. in Computer Science</p>
+
+<!-- Advisors: [Tsui-Wei (Lily) Weng](https://lilywenglab.github.io/) and [Lam M. Nguyen](https://www.lamnguyen.org/) (IBM Research) -->
+
+</article>
+
+<article class="education-entry" markdown="1">
+<header class="education-header">
+  <h3>Xi’an Jiaotong University</h3>
+  <p class="education-date">Aug. 2015 – Jun. 2019</p>
+</header>
+<p>B.E. in Information Engineering</p>
+</article>
+
+</section>
 
 <!-- ## Notes
 - [A Note about NTK Derivation](/files/ntk_derivation.pdf)
@@ -207,16 +256,37 @@ Advisor: Prof. [Taiji Suzuki](https://ibis.t.u-tokyo.ac.jp/suzuki/)
 
 
 ## Talks
-Generalization Bound of Gradient Flow through Training Trajectory and Data-dependent Kernel 
-- Mar 2025 - [EnCORE Institute Workshop on Theoretical Perspectives on LLMs](https://sites.google.com/ucsd.edu/encore-llm/)
 
-Analyzing Neural Networks through Equivalent Kernels [[slides]](/files/LPK_SOCAMS.pdf)
-- Aug 2024 - [RIKEN AIP – SJTU CS Joint Workshop on Machine Learning and Brain-like Intelligence](https://tensorworkshop.github.io/RIKENAIP_SJTUCS2024/)
-- Apr 2024 - [Southern California Applied Mathematics Symposium (SOCAMS 2024)](https://www.socams.org/home)
-
-Analyzing Generalization of Neural Networks through Loss Path Kernels [[slides]](/files/LPK.pdf)
-- Jan 2024 - ByteDance
-- Nov 2023 - AI TIME 
+<div class="talk-list">
+  <article class="talk-entry">
+    <header class="talk-header">
+      <h3>Generalization Bound of Gradient Flow through Training Trajectory and Data-dependent Kernel</h3>
+    </header>
+    <ul class="talk-events">
+      <li><time datetime="2025-03">Mar. 2025</time><span><a href="https://sites.google.com/ucsd.edu/encore-llm/">EnCORE Institute Workshop on Theoretical Perspectives on LLMs</a></span></li>
+    </ul>
+  </article>
+  <article class="talk-entry">
+    <header class="talk-header">
+      <h3>Analyzing Neural Networks through Equivalent Kernels</h3>
+      <a class="talk-slides" href="/files/LPK_SOCAMS.pdf" aria-label="Slides: Analyzing Neural Networks through Equivalent Kernels">Slides</a>
+    </header>
+    <ul class="talk-events">
+      <li><time datetime="2024-08">Aug. 2024</time><span><a href="https://tensorworkshop.github.io/RIKENAIP_SJTUCS2024/">RIKEN AIP – SJTU CS Joint Workshop on Machine Learning and Brain-like Intelligence</a></span></li>
+      <li><time datetime="2024-04">Apr. 2024</time><span><a href="https://www.socams.org/home">Southern California Applied Mathematics Symposium (SOCAMS 2024)</a></span></li>
+    </ul>
+  </article>
+  <article class="talk-entry">
+    <header class="talk-header">
+      <h3>Analyzing Generalization of Neural Networks through Loss Path Kernels</h3>
+      <a class="talk-slides" href="/files/LPK.pdf" aria-label="Slides: Analyzing Generalization of Neural Networks through Loss Path Kernels">Slides</a>
+    </header>
+    <ul class="talk-events">
+      <li><time datetime="2024-01">Jan. 2024</time><span>ByteDance</span></li>
+      <li><time datetime="2023-11">Nov. 2023</time><span>AI TIME</span></li>
+    </ul>
+  </article>
+</div>
 
 
 
@@ -255,11 +325,3 @@ Analyzing Generalization of Neural Networks through Loss Path Kernels [[slides]]
 - Area Chair: ICLR 2026 DeLTa Workshop
 - Journal Reviewer: Journal of Optimization Theory and Applications (JOTA)
 <!-- - Program Committee: AAAI 2023 Workshop MLmDS -->
-
-
-
-
-## Contact
-
-University of California San Diego, La Jolla, CA<br>
-Email: yic031 [at] ucsd.edu

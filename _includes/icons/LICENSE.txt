@@ -2,9 +2,12 @@ Google Scholar icon: Simple Icons, CC0-1.0.
 Source: https://github.com/simple-icons/simple-icons/blob/develop/icons/googlescholar.svg
 License: https://github.com/simple-icons/simple-icons/blob/develop/LICENSE.md
 
-GitHub and LinkedIn icons: Bootstrap Icons, MIT.
+GitHub, LinkedIn, Email, CV, and X icons: Bootstrap Icons, MIT.
 Source: https://github.com/twbs/icons/blob/main/icons/github.svg
 Source: https://github.com/twbs/icons/blob/main/icons/linkedin.svg
+Source: https://github.com/twbs/icons/blob/main/icons/envelope-fill.svg
+Source: https://github.com/twbs/icons/blob/main/icons/file-earmark-text-fill.svg
+Source: https://github.com/twbs/icons/blob/main/icons/twitter-x.svg
 
 The MIT License (MIT)
 
