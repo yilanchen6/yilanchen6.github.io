@@ -173,7 +173,7 @@ I investigate what knowledge neural networks acquire and how it is represented a
 
 <article class="experience-entry" markdown="1">
 <header class="experience-header">
-  <h3>AWS Agentic AI</h3>
+  <h3>Amazon Web Services (AWS) — Agentic AI, Kiro Science</h3>
   <p class="experience-date">Jun. – Sep. 2026</p>
 </header>
 <p>Applied Scientist Intern · Santa Clara, USA</p>
