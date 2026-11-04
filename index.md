@@ -30,7 +30,6 @@ https://david-abel.github.io/index.html -->
 </figure> -->
 
 I am a final-year Ph.D. student in the [Department of Computer Science and Engineering](https://cse.ucsd.edu/) at the University of California San Diego (UCSD), working with Prof. [Arya Mazumdar](https://mazumdar.ucsd.edu/index.html).
-My research aims to build AI systems that **learn efficiently and generalize reliably**.
 During my Ph.D., I have interned at AWS Agentic AI, Google Research, and RIKEN AIP.
 
 <nav class="profile-links" aria-label="Profile links">
@@ -85,7 +84,8 @@ During my Ph.D., I have interned at AWS Agentic AI, Google Research, and RIKEN A
 ## Research
 {: #research-interests}
 
-I focus on **LLM post-training**, especially reinforcement learning and on-policy distillation for reasoning models and agents. My broader research spans **learning theory, generalization, knowledge transfer, and interpretability**.
+My research aims to build AI systems that **learn efficiently and generalize reliably**.
+I pursue this goal by developing better learning algorithms, establishing their theoretical foundations, and studying how models acquire and transfer knowledge. My current focus is **LLM post-training** for reasoning models and agents.
 {: .research-intro}
 
 <article class="research-theme" aria-labelledby="research-post-training" markdown="1">
@@ -99,7 +99,7 @@ I focus on **LLM post-training**, especially reinforcement learning and on-polic
 ### LLM Post-training & Agent Learning
 {: #research-post-training}
 
-I develop reinforcement learning and on-policy distillation methods for reasoning models and interactive agents. My work connects teacher supervision to reward improvement and RL advantage estimation, derives principled token-level learning signals, and uses privileged training information to improve agent learning.
+I develop reinforcement learning and on-policy distillation methods that help reasoning models and agents learn more effectively from teacher supervision and task feedback. My work aligns token-level learning signals with task rewards, connects distillation to RL advantage estimation, and uses privileged training information to improve agent learning.
 
 <div class="research-papers">
   <a href="https://arxiv.org/abs/2610.14572" title="NeurIPS 2026 PretoPost Workshop">Reward-Aligned Distillation (Preprint 2026)</a>
@@ -121,7 +121,7 @@ I develop reinforcement learning and on-policy distillation methods for reasonin
 ### Learning Theory & Generalization
 {: #research-learning-theory}
 
-I study how optimization, data, and model structure shape learning and generalization. My work connects neural-network training trajectories with kernel methods, analyzes transformer in-context learning, and develops provable dataset-distillation algorithms.
+I study how data, optimization, and model structure determine learning efficiency and generalization. My work develops generalization bounds through connections between training trajectories and kernel methods, analyzes transformer in-context learning, and establishes guarantees for dataset distillation using compact synthetic datasets.
 
 <div class="research-papers">
   <a href="https://arxiv.org/abs/2506.11357">Training Trajectories &amp; Generalization (NeurIPS 2025)</a>
@@ -143,12 +143,12 @@ I study how optimization, data, and model structure shape learning and generaliz
 ### Interpretability & Knowledge Transfer
 {: #research-interpretability}
 
-I investigate what neural networks represent and how knowledge changes during training and transfer. My work studies feature relationships across fine-tuned models and improves automated explanations of language-model neurons, building on earlier work quantifying concepts learned through distillation.
+I investigate what knowledge neural networks acquire and how it is represented and transferred across models and tasks. My work studies relationships between fine-tuned representations, improves automated neuron explanations, and quantifies concepts learned through distillation.
 
 <div class="research-papers">
   <a href="https://arxiv.org/abs/2402.03660">Cross-Task Linearity (ICML 2024)</a>
-  <a href="https://arxiv.org/abs/2310.06200" title="NeurIPS 2023 Workshop on Attributing Model Behavior at Scale">Automated Neuron Explanations (NeurIPS Workshop 2023)</a>
   <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9864081" title="Quantifying the Knowledge in a DNN to Explain Knowledge Distillation for Classification">Quantifying Knowledge in a DNN (TPAMI 2023)</a>
+  <a href="https://arxiv.org/abs/2310.06200" title="NeurIPS 2023 Workshop on Attributing Model Behavior at Scale">Automated Neuron Explanations (NeurIPS Workshop 2023)</a>
 </div>
 
 </div>
